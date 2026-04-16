@@ -36,6 +36,7 @@ AI agriculture research company forming in Louisiana.
 
 | # | Document | Description |
 |---|----------|-------------|
+| -- | [Partner Overview](PARTNER_OVERVIEW.md) | Executive summary for partner meetings |
 | 00 | [Master Checklist](00_MASTER_CHECKLIST.md) | Step-by-step formation and grant readiness checklist |
 | 01 | [Articles of Organization](01_ARTICLES_OF_ORGANIZATION.md) | LA Secretary of State filing guide |
 | 02 | [Operating Agreement](02_OPERATING_AGREEMENT.md) | Multi-member, manager-managed LLC agreement |

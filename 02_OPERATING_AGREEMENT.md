@@ -79,10 +79,18 @@ William Brooks Parker
 - (h) Representing the Company in dealings with federal, state, and local agencies
 
 **4.4 Limitations on Manager Authority.** The following actions require approval of Members holding a majority (more than 50%) of total Membership Interests:
-- (a) Any single expenditure or commitment exceeding $10,000
+- (a) Any single expenditure or commitment exceeding $10,000, **except** as provided in Section 4.4A
 - (b) Entering into any loan or debt obligation exceeding $25,000
 - (c) Selling or disposing of a substantial portion of Company assets
 - (d) Entering into contracts with a term exceeding one year
+
+**4.4A Grant Budget Authority.** When the Company receives a federal or state grant award (including but not limited to SBIR, STTR, USDA, NSF, and DOE grants), the Manager shall have authority to make expenditures within the approved grant budget without obtaining additional Member approval for each expenditure, provided that:
+- (a) The Members approved the Company's decision to apply for the grant by majority vote prior to submission
+- (b) Each expenditure falls within a line item or budget category approved by the granting agency
+- (c) The Manager provides quarterly reports to all Members detailing grant expenditures versus the approved budget
+- (d) Any expenditure that would exceed the approved grant budget or fall outside approved budget categories requires majority Member approval under Section 4.4(a)
+
+This provision ensures the Company can fulfill grant obligations on the timelines required by federal and state agencies without operational delays.
 
 **4.5 Actions Requiring Supermajority.** The following actions require approval of Members holding at least 66.7% (two-thirds) of total Membership Interests:
 - (a) Admission of new Members
@@ -187,46 +195,65 @@ William Brooks Parker
 
 ---
 
-## ARTICLE XI — INDEMNIFICATION
+## ARTICLE XI — INTELLECTUAL PROPERTY
 
-**11.1 Indemnification.** The Company shall indemnify and hold harmless the Manager and each Member from any loss, liability, damage, cost, or expense (including reasonable attorney's fees) arising from any act performed or omission made in good faith on behalf of the Company and in a manner reasonably believed to be within the scope of authority granted by this Agreement.
+**11.1 Company Ownership.** All intellectual property created, developed, or discovered by any Member, employee, or contractor in the course of performing work for the Company or using Company resources shall be the sole and exclusive property of the Company. This includes but is not limited to:
+- (a) Software, algorithms, and source code
+- (b) Machine learning models, trained weights, and training data pipelines
+- (c) Research data, datasets, and databases
+- (d) Inventions, discoveries, and trade secrets
+- (e) Publications, reports, and written works
+- (f) Patents, patent applications, and patentable ideas
+- (g) Trademarks, service marks, and branding
 
-**11.2 Limitation.** No indemnification shall be provided for acts of fraud, willful misconduct, or gross negligence.
+**11.2 SBIR/STTR Compliance.** In accordance with federal SBIR and STTR program requirements, the Company shall retain ownership of all intellectual property and data rights developed under federally funded research. No Member may individually claim ownership of IP developed with grant funds. The Company shall comply with all applicable data rights provisions of the Small Business Innovation Research and Small Business Technology Transfer programs.
+
+**11.3 Assignment.** Each Member agrees to execute any documents necessary to assign, transfer, or confirm the Company's ownership of intellectual property as described in this Article. This obligation survives a Member's withdrawal or removal from the Company.
+
+**11.4 Prior IP.** Intellectual property owned by a Member before joining the Company remains that Member's individual property. If a Member contributes prior IP to the Company, the terms of that contribution (license vs. assignment, valuation) shall be documented in writing and approved by the Manager.
 
 ---
 
-## ARTICLE XII — DISSOLUTION
+## ARTICLE XII — INDEMNIFICATION
 
-**12.1 Events of Dissolution.** The Company shall be dissolved upon the occurrence of any of the following:
+**12.1 Indemnification.** The Company shall indemnify and hold harmless the Manager and each Member from any loss, liability, damage, cost, or expense (including reasonable attorney's fees) arising from any act performed or omission made in good faith on behalf of the Company and in a manner reasonably believed to be within the scope of authority granted by this Agreement.
+
+**12.2 Limitation.** No indemnification shall be provided for acts of fraud, willful misconduct, or gross negligence.
+
+---
+
+## ARTICLE XIII — DISSOLUTION
+
+**13.1 Events of Dissolution.** The Company shall be dissolved upon the occurrence of any of the following:
 - (a) Written consent of Members holding at least 66.7% (two-thirds) of total Membership Interests
 - (b) Entry of a decree of judicial dissolution under Louisiana law
 - (c) Any event that makes it unlawful for the Company to continue
 
-**12.2 Winding Up.** Upon dissolution, the Manager (or a liquidating agent appointed by the Members) shall wind up the Company's affairs by:
+**13.2 Winding Up.** Upon dissolution, the Manager (or a liquidating agent appointed by the Members) shall wind up the Company's affairs by:
 - (a) Completing or terminating all active grants and contracts in accordance with their terms
 - (b) Collecting all debts owed to the Company
 - (c) Paying or providing for all Company debts and obligations
 - (d) Distributing any remaining assets to the Members in proportion to their capital account balances
 
-**12.3 Articles of Dissolution.** Upon completion of winding up, the Manager shall file Articles of Dissolution with the Louisiana Secretary of State.
+**13.3 Articles of Dissolution.** Upon completion of winding up, the Manager shall file Articles of Dissolution with the Louisiana Secretary of State.
 
 ---
 
-## ARTICLE XIII — AMENDMENTS
+## ARTICLE XIV — AMENDMENTS
 
 This Agreement may be amended only by the written consent of Members holding at least 66.7% (two-thirds) of total Membership Interests.
 
 ---
 
-## ARTICLE XIV — MISCELLANEOUS
+## ARTICLE XV — MISCELLANEOUS
 
-**14.1 Governing Law.** This Agreement shall be governed by and construed in accordance with the laws of the State of Louisiana.
+**15.1 Governing Law.** This Agreement shall be governed by and construed in accordance with the laws of the State of Louisiana.
 
-**14.2 Entire Agreement.** This Agreement constitutes the entire agreement among the Members relating to the Company and supersedes all prior agreements and understandings.
+**15.2 Entire Agreement.** This Agreement constitutes the entire agreement among the Members relating to the Company and supersedes all prior agreements and understandings.
 
-**14.3 Severability.** If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+**15.3 Severability.** If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
 
-**14.4 Binding Effect.** This Agreement shall be binding upon and inure to the benefit of the Members, their heirs, executors, administrators, successors, and permitted assigns.
+**15.4 Binding Effect.** This Agreement shall be binding upon and inure to the benefit of the Members, their heirs, executors, administrators, successors, and permitted assigns.
 
 ---
 
