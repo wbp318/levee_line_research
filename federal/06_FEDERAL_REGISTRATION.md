@@ -24,7 +24,7 @@ Before applying to any federal grant program, you need accounts on three systems
 
 ### What You Need Before Starting
 
-- [ ] EIN (Employer Identification Number) — apply for this first if you haven't already (see [03_EIN_APPLICATION.md](03_EIN_APPLICATION.md))
+- [ ] EIN (Employer Identification Number) — apply for this first if you haven't already (see [03_EIN_APPLICATION.md](../formation/03_EIN_APPLICATION.md))
 - [ ] Legal business name: **Levee Line Research LLC**
 - [ ] Physical address: **689 Lensing Lane, Lake Providence, LA 71254**
 - [ ] Bank account info (for electronic funds transfer / direct deposit of grant funds)
@@ -157,7 +157,7 @@ For NAICS 541715, the small business threshold is:
 
 Complete these in order:
 
-- [ ] Apply for EIN (if not already done) — see [03_EIN_APPLICATION.md](03_EIN_APPLICATION.md)
+- [ ] Apply for EIN (if not already done) — see [03_EIN_APPLICATION.md](../formation/03_EIN_APPLICATION.md)
 - [ ] Register on SAM.gov and receive UEI number
 - [ ] Wait for SAM.gov registration to go ACTIVE (7-10 business days)
 - [ ] Register on Grants.gov with UEI

@@ -253,13 +253,15 @@ All formation and strategy documents are prepared and available:
 | # | Document | Status |
 |---|----------|--------|
 | 00 | [Master Checklist](00_MASTER_CHECKLIST.md) | Ready |
-| 01 | [Articles of Organization](01_ARTICLES_OF_ORGANIZATION.md) | Ready to file |
-| 02 | [Operating Agreement](02_OPERATING_AGREEMENT.md) | Ready to sign (fill in partner names) |
-| 03 | [EIN Application Guide](03_EIN_APPLICATION.md) | Ready |
-| 04 | [Louisiana Compliance](04_LOUISIANA_COMPLIANCE.md) | Reference |
-| 05 | [Bank Account Setup](05_BANK_ACCOUNT_SETUP.md) | Reference |
-| 06 | [Federal Registration Guide](06_FEDERAL_REGISTRATION.md) | Ready |
-| 07 | [Funding Roadmap](07_FUNDING_ROADMAP.md) | Ready |
-| 08 | [Grant Calendar](08_GRANT_CALENDAR.md) | Ready |
-| 09 | [AI Ag Research Scope](09_AG_RESEARCH_SCOPE.md) | Ready |
-| 10 | [Louisiana Grants Strategy](10_LOUISIANA_GRANTS_STRATEGY.md) | Ready |
+| 01 | [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md) | Ready to file (LA — see doc 11 Part I for AR LL-01) |
+| 02 | [Operating Agreement](formation/02_OPERATING_AGREEMENT.md) | Ready to sign (fill in partner names) |
+| 03 | [EIN Application Guide](formation/03_EIN_APPLICATION.md) | Ready |
+| 04 | [Louisiana Compliance](louisiana/04_LOUISIANA_COMPLIANCE.md) | Reference |
+| 05 | [Bank Account Setup](banking/05_BANK_ACCOUNT_SETUP.md) | Reference |
+| 06 | [Federal Registration Guide](federal/06_FEDERAL_REGISTRATION.md) | Ready |
+| 07 | [Funding Roadmap](funding/07_FUNDING_ROADMAP.md) | Ready |
+| 08 | [Grant Calendar](funding/08_GRANT_CALENDAR.md) | Ready |
+| 09 | [AI Ag Research Scope](research/09_AG_RESEARCH_SCOPE.md) | Ready |
+| 10 | [Louisiana Grants Strategy](louisiana/10_LOUISIANA_GRANTS_STRATEGY.md) | Ready |
+| **11** | **[Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md)** | **Primary formation path** |
+| **12** | **[Property Search](arkansas/12_PROPERTY_SEARCH.md)** | **Chicot/Desha house hunting** |

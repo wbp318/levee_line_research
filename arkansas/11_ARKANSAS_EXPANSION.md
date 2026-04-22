@@ -29,7 +29,7 @@ Current timeline of SBIR/STTR reauthorization is uncertain; watch AEDC's Divisio
 
 ## Part I — Arkansas LLC Formation
 
-Parallel to [`01_ARTICLES_OF_ORGANIZATION.md`](01_ARTICLES_OF_ORGANIZATION.md) for AR.
+Parallel to [`01_ARTICLES_OF_ORGANIZATION.md`](../formation/01_ARTICLES_OF_ORGANIZATION.md) for AR.
 
 ### Filing
 
@@ -77,7 +77,7 @@ Parallel to [`01_ARTICLES_OF_ORGANIZATION.md`](01_ARTICLES_OF_ORGANIZATION.md) f
 
 ## Part II — Arkansas Compliance Guide
 
-Parallel to [`04_LOUISIANA_COMPLIANCE.md`](04_LOUISIANA_COMPLIANCE.md) for AR.
+Parallel to [`04_LOUISIANA_COMPLIANCE.md`](../louisiana/04_LOUISIANA_COMPLIANCE.md) for AR.
 
 ### Annual Franchise Tax Report (LLC)
 
@@ -161,7 +161,7 @@ Arkansas Tax Procedure Act (26 CAR § 30-1211): retain accounting records, sourc
 
 ## Part III — Arkansas Grants & Funding Strategy
 
-Parallel to [`10_LOUISIANA_GRANTS_STRATEGY.md`](10_LOUISIANA_GRANTS_STRATEGY.md) for AR.
+Parallel to [`10_LOUISIANA_GRANTS_STRATEGY.md`](../louisiana/10_LOUISIANA_GRANTS_STRATEGY.md) for AR.
 
 ### 1. AEDC SBIR Matching Grant
 

@@ -20,12 +20,12 @@
   - File online: https://www.sos.la.gov/BusinessServices/FileBusinessDocuments/Pages/default.aspx
   - Filing fee: $100 (online) or $75 (mail)
   - Initial report fee: $25 (filed simultaneously)
-  - See [01_ARTICLES_OF_ORGANIZATION.md](01_ARTICLES_OF_ORGANIZATION.md) for all fields
+  - See [01_ARTICLES_OF_ORGANIZATION.md](formation/01_ARTICLES_OF_ORGANIZATION.md) for all fields (or [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part I for AR LL-01)
   - Decision: file with just Managing Member now, amend to add members later (recommended)
 
 - [ ] **Create Operating Agreement**
   - Louisiana does not require filing, but essential for multi-member LLC
-  - See [02_OPERATING_AGREEMENT.md](02_OPERATING_AGREEMENT.md)
+  - See [02_OPERATING_AGREEMENT.md](formation/02_OPERATING_AGREEMENT.md)
   - All members must sign
   - Defines manager powers, profit splits, voting, transfers
 
@@ -40,7 +40,7 @@
   - Apply as "Limited Liability Company"
   - Multi-member LLC: taxed as **partnership** by default (Form 1065)
   - Print/save the EIN confirmation letter (CP 575)
-  - See [03_EIN_APPLICATION.md](03_EIN_APPLICATION.md)
+  - See [03_EIN_APPLICATION.md](formation/03_EIN_APPLICATION.md)
 
 ## Phase 3 — Federal Grant Registration (START IMMEDIATELY)
 
@@ -51,7 +51,7 @@
   - Create Login.gov account
   - Receive your UEI (Unique Entity Identifier)
   - Processing: 7-10 business days
-  - See [06_FEDERAL_REGISTRATION.md](06_FEDERAL_REGISTRATION.md)
+  - See [06_FEDERAL_REGISTRATION.md](federal/06_FEDERAL_REGISTRATION.md)
 
 - [ ] **Register on Grants.gov**
   - https://www.grants.gov/register
@@ -87,13 +87,13 @@
   - Due every year on formation anniversary
   - $30 fee (online)
   - Missing this can dissolve your LLC
-  - See [04_LOUISIANA_COMPLIANCE.md](04_LOUISIANA_COMPLIANCE.md)
+  - See [04_LOUISIANA_COMPLIANCE.md](louisiana/04_LOUISIANA_COMPLIANCE.md) — or [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part II for AR compliance
 
 ## Phase 5 — Banking
 
 - [ ] **Open a business bank account**
   - Bring: EIN letter, Articles of Organization, Operating Agreement, driver's license
-  - Multi-member LLC: decide who has signatory authority (see [05_BANK_ACCOUNT_SETUP.md](05_BANK_ACCOUNT_SETUP.md))
+  - Multi-member LLC: decide who has signatory authority (see [05_BANK_ACCOUNT_SETUP.md](banking/05_BANK_ACCOUNT_SETUP.md))
   - Local options: Citizens Bank & Trust (Lake Providence), Tensas State Bank
   - Online options: Mercury (recommended), Relay, Bluevine
   - Get a business debit card
@@ -115,7 +115,7 @@
 - [ ] **Explore Louisiana SSBCI programs** (loans, guarantees, seed capital)
 - [ ] **Apply for LA R&D Tax Credit** (after July 1, 2026)
 - [ ] **Apply for Innovation Retention Grant** (after receiving SBIR/STTR award)
-- See [07_FUNDING_ROADMAP.md](07_FUNDING_ROADMAP.md) and [08_GRANT_CALENDAR.md](08_GRANT_CALENDAR.md) for full details
+- See [07_FUNDING_ROADMAP.md](funding/07_FUNDING_ROADMAP.md) and [08_GRANT_CALENDAR.md](funding/08_GRANT_CALENDAR.md) for full details
 
 ## Phase 7 — Ongoing Compliance
 

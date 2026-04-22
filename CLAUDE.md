@@ -11,9 +11,17 @@ Formation documents, grant strategies, and funding roadmaps for **Levee Line Res
 ## Key Context
 
 - User is pursuing SBIR/STTR grants (NSF, USDA, DOE), SBA loans, and Louisiana state funding programs.
-- Grant deadlines drive urgency — check `08_GRANT_CALENDAR.md` for current deadlines before advising on priorities.
+- Grant deadlines drive urgency — check `funding/08_GRANT_CALENDAR.md` for current deadlines before advising on priorities.
 - The e-commerce business (318ecom LLC) lives in a separate repo (`newmarkets_fin_and_plans`).
 
 ## Documents
 
-Formation docs (00-05), federal grant registration (06), funding roadmap (07), grant calendar (08), ag research scope (09), Louisiana grants strategy (10). All in the repo root.
+Organized into topical folders:
+- **Root:** `README.md`, `PARTNER_OVERVIEW.md`, `00_MASTER_CHECKLIST.md`
+- `arkansas/` — `11_ARKANSAS_EXPANSION.md` (primary formation path), `12_PROPERTY_SEARCH.md`
+- `formation/` — Articles of Organization (01), Operating Agreement (02), EIN (03)
+- `federal/` — Federal Registration (06)
+- `funding/` — Funding Roadmap (07), Grant Calendar (08)
+- `banking/` — Bank Account Setup (05)
+- `research/` — Ag Research Scope (09)
+- `louisiana/` — LA Compliance (04), LA Grants Strategy (10) — Path C fallback only

@@ -125,8 +125,8 @@ You can elect S-Corp taxation by filing **Form 2553** with the IRS.
    - State tax registration
 2. **Store securely** — treat the EIN like sensitive business information
 3. **Next steps:**
-   - Open a business bank account (see [05_BANK_ACCOUNT_SETUP.md](05_BANK_ACCOUNT_SETUP.md))
-   - Register on SAM.gov (see [06_FEDERAL_REGISTRATION.md](06_FEDERAL_REGISTRATION.md))
+   - Open a business bank account (see [05_BANK_ACCOUNT_SETUP.md](../banking/05_BANK_ACCOUNT_SETUP.md))
+   - Register on SAM.gov (see [06_FEDERAL_REGISTRATION.md](../federal/06_FEDERAL_REGISTRATION.md))
    - Register with Louisiana Department of Revenue
 
 ---

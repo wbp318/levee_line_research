@@ -1,6 +1,6 @@
 # Levee Line Research LLC
 
-AI agriculture R&D LLC forming in the Mississippi Delta. **Arkansas is now the leading candidate formation state** — Chicot County (Lake Village area, ~15 miles north across the river from Lake Providence, LA) offers Rohwer Research Station (30 mi), UAM / AFRC / new Forest Health Research Center, UAPB's 1890 land-grant pipeline, NSF EPSCoR / DART context, and deeper ag-research university bench than LA. Louisiana remains Path C's fallback (form LA / foreign-register in AR). See [Arkansas Expansion](11_ARKANSAS_EXPANSION.md).
+AI agriculture R&D LLC forming in the Mississippi Delta. **Arkansas is now the leading candidate formation state** — Chicot County (Lake Village area, ~15 miles north across the river from Lake Providence, LA) offers Rohwer Research Station (30 mi), UAM / AFRC / new Forest Health Research Center, UAPB's 1890 land-grant pipeline, NSF EPSCoR / DART context, and deeper ag-research university bench than LA. Louisiana remains Path C's fallback (form LA / foreign-register in AR). See [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) and [Property Search](arkansas/12_PROPERTY_SEARCH.md).
 
 **Entity:** Levee Line Research LLC
 **Structure:** Manager-managed, multi-member LLC
@@ -18,17 +18,18 @@ AI agriculture R&D LLC forming in the Mississippi Delta. **Arkansas is now the l
 
 ### DO TODAY
 1. **Name search** Arkansas SOS: https://www.ark.org/corp-search/ — confirm `Levee Line Research LLC` available
-2. **File LL-01** (AR Articles of Organization) — [$45 online](https://www.ark.org/sos/ofs/docs/index.php) → see [Arkansas Expansion](11_ARKANSAS_EXPANSION.md) Part I (OR LA Articles at [$100 online](https://www.sos.la.gov/BusinessServices/FileBusinessDocuments/Pages/default.aspx) if Path C — see [Articles of Organization](01_ARTICLES_OF_ORGANIZATION.md))
-3. **Apply for EIN** — [free, instant online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) → see [EIN Application Guide](03_EIN_APPLICATION.md)
-4. **Start SAM.gov registration** — takes 2-4 weeks, clock starts now → see [Federal Registration Guide](06_FEDERAL_REGISTRATION.md)
+2. **File LL-01** (AR Articles of Organization) — [$45 online](https://www.ark.org/sos/ofs/docs/index.php) → see [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part I (OR LA Articles at [$100 online](https://www.sos.la.gov/BusinessServices/FileBusinessDocuments/Pages/default.aspx) if Path C — see [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md))
+3. **Apply for EIN** — [free, instant online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) → see [EIN Application Guide](formation/03_EIN_APPLICATION.md)
+4. **Start SAM.gov registration** — takes 2-4 weeks, clock starts now → see [Federal Registration Guide](federal/06_FEDERAL_REGISTRATION.md)
 
 ### DO THIS WEEK
-5. **Email AR university partners** — UAM Dean Blazier (Blazier@uamont.edu), UAM AFRC Geospatial (Zurqani), UADA TCO (agritco@uada.edu), UAPB ORSP (orsp@uapb.edu) → see [Arkansas Expansion](11_ARKANSAS_EXPANSION.md) Part IV for intro scripts
+5. **Email AR university partners** — UAM Dean Blazier (Blazier@uamont.edu), UAM AFRC Geospatial (Zurqani), UADA TCO (agritco@uada.edu), UAPB ORSP (orsp@uapb.edu) → see [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part IV for intro scripts
 6. **Call AEDC Business Finance (501-682-5996)** — identify as NAICS 541715 Targeted Business; request R&D Financial Incentive Agreement template BEFORE any research spending
 7. **Call Chicot County Extension (870-265-8055)** and UAM ASBTDC (870-367-6811) — request intake meetings
 8. **Create Research.gov account** — needed for NSF SBIR Project Pitches → [research.gov](https://www.research.gov)
-9. **Assess DOE Genesis Mission feasibility** — application deadline is **April 28, 2026** → see [Grant Calendar](08_GRANT_CALENDAR.md)
-10. **Finalize LA vs AR decision** — review [Arkansas Expansion](11_ARKANSAS_EXPANSION.md) Part XII decision framework; current lean is **Path B (AR primary)**
+9. **Assess DOE Genesis Mission feasibility** — application deadline is **April 28, 2026** → see [Grant Calendar](funding/08_GRANT_CALENDAR.md)
+10. **Finalize LA vs AR decision** — review [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part XII decision framework; current lean is **Path B (AR primary)**
+11. **Begin Chicot/Desha property search** — see [Property Search](arkansas/12_PROPERTY_SEARCH.md)
 
 ### UPCOMING DEADLINES
 - **April 23** — USDA AFRI A9231 AI for K-12 Food & Ag proposals due (if timing allows post-formation)
@@ -42,7 +43,7 @@ AI agriculture R&D LLC forming in the Mississippi Delta. **Arkansas is now the l
 
 ## Arkansas Highlights (Leading Path B)
 
-Full detail in [Arkansas Expansion](11_ARKANSAS_EXPANSION.md). This is the at-a-glance reference.
+Full detail in [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md). This is the at-a-glance reference.
 
 ### Why Arkansas
 
@@ -138,18 +139,50 @@ Two walls block self-hire from qualifying:
 
 ## Documents
 
+Organized into topical folders:
+
+### Top-level
+| Document | Description |
+|----------|-------------|
+| [Partner Overview](PARTNER_OVERVIEW.md) | Executive summary for partner meetings |
+| [Master Checklist](00_MASTER_CHECKLIST.md) | Step-by-step formation and grant readiness checklist |
+
+### `arkansas/` — Primary formation path
 | # | Document | Description |
 |---|----------|-------------|
-| -- | [Partner Overview](PARTNER_OVERVIEW.md) | Executive summary for partner meetings |
-| 00 | [Master Checklist](00_MASTER_CHECKLIST.md) | Step-by-step formation and grant readiness checklist |
-| 01 | [Articles of Organization](01_ARTICLES_OF_ORGANIZATION.md) | LA Secretary of State filing guide |
-| 02 | [Operating Agreement](02_OPERATING_AGREEMENT.md) | Multi-member, manager-managed LLC agreement |
-| 03 | [EIN Application](03_EIN_APPLICATION.md) | IRS Employer Identification Number guide |
-| 04 | [Louisiana Compliance](04_LOUISIANA_COMPLIANCE.md) | State taxes, annual report, R&D tax credit |
-| 05 | [Bank Account Setup](05_BANK_ACCOUNT_SETUP.md) | Banking options, grant fund separation |
-| 06 | [Federal Registration](06_FEDERAL_REGISTRATION.md) | SAM.gov, Grants.gov, SBIR.gov, Research.gov |
-| 07 | [Funding Roadmap](07_FUNDING_ROADMAP.md) | SBA loans, SBIR grants, state programs |
-| 08 | [Grant Calendar](08_GRANT_CALENDAR.md) | All deadlines and funding timelines |
-| 09 | [AG Research Scope](09_AG_RESEARCH_SCOPE.md) | AI agriculture focus areas, tech stack, university targets |
-| 10 | [Louisiana Grants Strategy](10_LOUISIANA_GRANTS_STRATEGY.md) | State grants, R&D tax credit, stacking strategy |
-| **11** | **[Arkansas Expansion](11_ARKANSAS_EXPANSION.md)** | **AR formation, compliance, grants, universities, NSF EPSCoR/DART, NIFA pipeline, STTR concepts, residency playbook — leading formation path** |
+| **11** | **[Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md)** | **AR formation, compliance, grants, universities, NSF EPSCoR/DART, NIFA pipeline, STTR concepts, residency playbook** |
+| **12** | **[Property Search](arkansas/12_PROPERTY_SEARCH.md)** | **Chicot & Desha County property market, listings, realtors, USDA financing, move-in playbook** |
+
+### `formation/` — LLC formation documents
+| # | Document | Description |
+|---|----------|-------------|
+| 01 | [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md) | LA Secretary of State filing guide (Path C fallback — AR LL-01 covered in doc 11 Part I) |
+| 02 | [Operating Agreement](formation/02_OPERATING_AGREEMENT.md) | Multi-member, manager-managed LLC agreement |
+| 03 | [EIN Application](formation/03_EIN_APPLICATION.md) | IRS Employer Identification Number guide |
+
+### `federal/` — Federal grant registration
+| # | Document | Description |
+|---|----------|-------------|
+| 06 | [Federal Registration](federal/06_FEDERAL_REGISTRATION.md) | SAM.gov, Grants.gov, SBIR.gov, Research.gov |
+
+### `funding/` — Funding strategy & calendar
+| # | Document | Description |
+|---|----------|-------------|
+| 07 | [Funding Roadmap](funding/07_FUNDING_ROADMAP.md) | SBA loans, SBIR grants, state programs |
+| 08 | [Grant Calendar](funding/08_GRANT_CALENDAR.md) | All deadlines and funding timelines |
+
+### `banking/` — Banking setup
+| # | Document | Description |
+|---|----------|-------------|
+| 05 | [Bank Account Setup](banking/05_BANK_ACCOUNT_SETUP.md) | Banking options, grant fund separation |
+
+### `research/` — Research scope
+| # | Document | Description |
+|---|----------|-------------|
+| 09 | [AG Research Scope](research/09_AG_RESEARCH_SCOPE.md) | AI agriculture focus areas, tech stack, university targets |
+
+### `louisiana/` — LA reference (Path C fallback)
+| # | Document | Description |
+|---|----------|-------------|
+| 04 | [Louisiana Compliance](louisiana/04_LOUISIANA_COMPLIANCE.md) | LA state taxes, annual report, R&D tax credit |
+| 10 | [Louisiana Grants Strategy](louisiana/10_LOUISIANA_GRANTS_STRATEGY.md) | LA state grants, R&D tax credit, stacking strategy |
