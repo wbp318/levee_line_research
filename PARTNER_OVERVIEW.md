@@ -25,7 +25,7 @@ Levee Line Research LLC is an AI agriculture research company based in Lake Prov
 | **Structure** | Manager-managed, multi-member LLC |
 | **NAICS Code** | 541715 — R&D in Physical, Engineering, and Life Sciences |
 | **Managing Member** | William Brooks Parker (51%) |
-| **Additional Members** | Up to 4 (sharing remaining 49%) |
+| **Additional Members** | Up to 3 (sharing remaining 49%) |
 | **Tax Treatment** | Partnership (Form 1065 — each member gets a K-1) |
 
 ---

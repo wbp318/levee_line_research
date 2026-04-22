@@ -1,12 +1,14 @@
 # Levee Line Research LLC
 
-AI agriculture research company forming in Louisiana.
+AI agriculture R&D LLC forming in the Mississippi Delta. Louisiana is the primary formation state; Arkansas (Chicot County, ~15 miles north across the river) is under evaluation as an alternative or parallel footprint — see [Arkansas Expansion](11_ARKANSAS_EXPANSION.md).
 
 **Entity:** Levee Line Research LLC
 **Structure:** Manager-managed, multi-member LLC
 **Managing Member:** William Brooks Parker (51%)
+**Additional Members:** Up to 3 partners sharing remaining 49% (TBD)
 **NAICS Code:** 541715 — Research and Development in the Physical, Engineering, and Life Sciences
-**Address:** 689 Lensing Lane, Lake Providence, LA 71254 (East Carroll Parish)
+**Primary Address:** 689 Lensing Lane, Lake Providence, LA 71254 (East Carroll Parish)
+**AR Alternative Siting:** Chicot County, AR (Lake Village area) — Tier 4 distressed, DRA-eligible, in-scope for AR R&D tax credits and SBIR match
 
 > Establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences, such as agriculture, biology, environmental science, and veterinary sciences. Includes AI and machine learning applications in agricultural research.
 
@@ -23,6 +25,7 @@ AI agriculture research company forming in Louisiana.
 4. **Contact Louisiana LTTO** — get $5,000 for SBIR/STTR proposal writing assistance → [opportunitylouisiana.gov/ltto](https://www.opportunitylouisiana.gov/ltto)
 5. **Create Research.gov account** — needed for NSF SBIR Project Pitches → [research.gov](https://www.research.gov)
 6. **Assess DOE Genesis Mission feasibility** — application deadline is **April 28, 2026** (13 days) → see [Grant Calendar](08_GRANT_CALENDAR.md)
+7. **Decide LA vs AR domicile** — review [Arkansas Expansion](11_ARKANSAS_EXPANSION.md) Part VII decision framework; lock state before filing Articles
 
 ### UPCOMING DEADLINES
 - **April 28** — DOE Genesis Mission SBIR applications due
@@ -48,3 +51,4 @@ AI agriculture research company forming in Louisiana.
 | 08 | [Grant Calendar](08_GRANT_CALENDAR.md) | All deadlines and funding timelines |
 | 09 | [AG Research Scope](09_AG_RESEARCH_SCOPE.md) | AI agriculture focus areas, tech stack, university targets |
 | 10 | [Louisiana Grants Strategy](10_LOUISIANA_GRANTS_STRATEGY.md) | State grants, R&D tax credit, stacking strategy |
+| 11 | [Arkansas Expansion](11_ARKANSAS_EXPANSION.md) | AR formation, compliance, grants — LA vs AR comparison, hybrid paths |

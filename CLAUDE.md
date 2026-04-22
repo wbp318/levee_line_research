@@ -4,7 +4,7 @@
 
 Formation documents, grant strategies, and funding roadmaps for **Levee Line Research LLC** — an AI agriculture research company forming in Louisiana. Separate entity from 318ecom LLC.
 
-- **Structure:** Manager-managed, multi-member LLC. William Brooks Parker (51% Managing Member), 4 additional members (49% TBD).
+- **Structure:** Manager-managed, multi-member LLC. William Brooks Parker (51% Managing Member), up to 3 additional partners (49% TBD).
 - **NAICS:** 541715 (R&D in Physical, Engineering, and Life Sciences)
 - **Address:** 689 Lensing Lane, Lake Providence, LA 71254 (East Carroll Parish)
 

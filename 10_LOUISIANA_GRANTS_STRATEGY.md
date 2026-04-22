@@ -132,7 +132,7 @@ These programs invest in your company in exchange for equity. You give up a smal
 | Ochsner Louisiana's Innovation Fund | Health/life sciences | Frame ag research as life sciences |
 | Tulane Innovation Institute | University-adjacent ventures | Propose university partnership |
 
-**Strategy:** Best approached after you have some traction — either an SBIR award, a working prototype, or initial revenue. The 1:1 match requirement means you need to find a private investor willing to put in the same amount. Your father or partners could count as private investors if they make a qualifying contribution.
+**Strategy:** Best approached after you have some traction — either an SBIR award, a working prototype, or initial revenue. The 1:1 match requirement means you need to find a private investor willing to put in the same amount. Your partners could count as private investors if they make a qualifying contribution.
 
 **Priority: MEDIUM — pursue after SBIR award or prototype. Start networking with fund partners now.**
 

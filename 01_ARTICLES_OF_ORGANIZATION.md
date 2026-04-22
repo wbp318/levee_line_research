@@ -95,19 +95,13 @@ Member 3:
   Interest:   [TBD]%
 
 Member 4:
-  Name:       [FATHER — FULL LEGAL NAME]
-  Address:    [FATHER ADDRESS]
-  Title:      Member
-  Interest:   [TBD]%
-
-Member 5:
   Name:       [PARTNER 4 — TO BE NAMED LATER]
   Address:    [TBD]
   Title:      Member
   Interest:   [TBD]%
 ```
 
-**Note:** Members 2-5 split the remaining 49% ownership. Fill in names and percentages once confirmed. You can file with just the Managing Member initially and amend later to add members, OR file with all members at once.
+**Note:** Members 2-4 split the remaining 49% ownership. Fill in names and percentages once confirmed. You can file with just the Managing Member initially and amend later to add members, OR file with all members at once.
 
 ### 9. Initial Report
 Filed at the same time as the Articles. It asks for the same info above plus:

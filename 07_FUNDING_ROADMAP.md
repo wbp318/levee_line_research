@@ -33,7 +33,7 @@ Phase 5 (Year 3+):    Sustain — Revenue + larger grants + private investment
 - **Cons:** Must repay with interest regardless of business outcome
 
 ### Partner Capital Contributions
-- Potential from 4 additional members (father + 3 partners)
+- Potential from up to 3 additional partners
 - Structure as capital contributions documented in Operating Agreement
 - Each partner's contribution should be proportional to (or justify) their ownership stake
 - Advantages: no interest, no repayment obligation, strengthens the Company's balance sheet

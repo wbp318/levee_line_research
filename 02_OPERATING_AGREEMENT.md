@@ -49,10 +49,9 @@ This Operating Agreement ("Agreement") is entered into as of [FORMATION DATE —
 | William Brooks Parker | 689 Lensing Lane, Lake Providence, LA 71254 | 51% | Managing Member |
 | [PARTNER 2 — FULL LEGAL NAME] | [ADDRESS] | [TBD]% | Member |
 | [PARTNER 3 — FULL LEGAL NAME] | [ADDRESS] | [TBD]% | Member |
-| [FATHER — FULL LEGAL NAME] | [ADDRESS] | [TBD]% | Member |
 | [PARTNER 4 — TO BE NAMED LATER] | [ADDRESS] | [TBD]% | Member |
 
-**Note:** Members 2-5 share the remaining 49% ownership. Update this table with actual names, addresses, and percentages when confirmed. All members must sign this Agreement.
+**Note:** Members 2-4 share the remaining 49% ownership. Update this table with actual names, addresses, and percentages when confirmed. All members must sign this Agreement.
 
 **3.2 Admission of New Members.** New Members may be admitted only with the written consent of Members holding at least 66.7% (two-thirds) of the total Membership Interests. The Manager shall prepare an amendment to this Agreement reflecting the admission of any new Member.
 
@@ -116,7 +115,6 @@ This provision ensures the Company can fulfill grant obligations on the timeline
 | William Brooks Parker | $500.00 | Cash |
 | [PARTNER 2] | $[TBD] | [Cash/Services/Equipment] |
 | [PARTNER 3] | $[TBD] | [Cash/Services/Equipment] |
-| [FATHER] | $[TBD] | [Cash/Services/Equipment] |
 | [PARTNER 4] | $[TBD] | [Cash/Services/Equipment] |
 
 **5.2 Additional Contributions.** No Member shall be required to make additional capital contributions beyond their initial contribution. Additional contributions may be made voluntarily with the consent of the Manager.
@@ -273,11 +271,6 @@ Date: _____________
 
 
 [PARTNER 3 — FULL LEGAL NAME] — Member ([TBD]%)
-Signature: ____________________________
-Date: _____________
-
-
-[FATHER — FULL LEGAL NAME] — Member ([TBD]%)
 Signature: ____________________________
 Date: _____________
 
