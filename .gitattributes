@@ -1,0 +1,262 @@
+# Default: auto-detect text vs binary, normalize line endings on commit.
+* text=auto eol=lf
+
+# ---------------------------------------------------------------------------
+# Source code
+# ---------------------------------------------------------------------------
+*.lua          text diff=lua
+*.py           text diff=python
+*.rb           text diff=ruby
+*.php          text diff=php
+*.pl           text diff=perl
+*.pm           text diff=perl
+*.js           text
+*.jsx          text
+*.mjs          text
+*.cjs          text
+*.ts           text
+*.tsx          text
+*.vue          text
+*.svelte       text
+*.astro        text
+*.c            text diff=cpp
+*.h            text diff=cpp
+*.cpp          text diff=cpp
+*.hpp          text diff=cpp
+*.cc           text diff=cpp
+*.cxx          text diff=cpp
+*.cs           text diff=csharp
+*.java         text diff=java
+*.kt           text diff=kotlin
+*.kts          text diff=kotlin
+*.scala        text
+*.groovy       text
+*.swift        text diff=swift
+*.go           text
+*.rs           text diff=rust
+*.dart         text
+*.ex           text
+*.exs          text
+*.erl          text
+*.hrl          text
+*.hs           text
+*.elm          text
+*.clj          text
+*.cljs         text
+*.cljc         text
+*.edn          text
+*.ml           text
+*.mli          text
+*.fs           text
+*.fsx          text
+*.r            text
+*.R            text
+*.jl           text
+*.nim          text
+*.zig          text
+*.v            text
+*.sol          text
+
+# ---------------------------------------------------------------------------
+# Shell / scripting (must stay LF — breaks on Linux otherwise)
+# ---------------------------------------------------------------------------
+*.sh           text eol=lf
+*.bash         text eol=lf
+*.zsh          text eol=lf
+*.fish         text eol=lf
+*.ksh          text eol=lf
+
+# ---------------------------------------------------------------------------
+# Windows scripting (native CRLF)
+# ---------------------------------------------------------------------------
+*.ps1          text eol=crlf
+*.psm1         text eol=crlf
+*.psd1         text eol=crlf
+*.ps1xml       text eol=crlf
+*.bat          text eol=crlf
+*.cmd          text eol=crlf
+*.vbs          text eol=crlf
+*.wsf          text eol=crlf
+*.reg          text eol=crlf
+
+# ---------------------------------------------------------------------------
+# Web / styles / templates
+# ---------------------------------------------------------------------------
+*.html         text diff=html
+*.htm          text diff=html
+*.css          text diff=css
+*.scss         text diff=css
+*.sass         text diff=css
+*.less         text diff=css
+*.styl         text
+*.svg          text
+
+# ---------------------------------------------------------------------------
+# Data / config
+# ---------------------------------------------------------------------------
+*.json         text
+*.jsonc        text
+*.json5        text
+*.yaml         text
+*.yml          text
+*.toml         text
+*.xml          text
+*.ini          text
+*.cfg          text
+*.conf         text
+*.env          text
+*.properties   text
+*.csv          text
+*.tsv          text
+
+# ---------------------------------------------------------------------------
+# Docs
+# ---------------------------------------------------------------------------
+*.md           text diff=markdown linguist-detectable=true
+*.mdx          text diff=markdown linguist-detectable=true
+*.markdown     text diff=markdown linguist-detectable=true
+*.rst          text
+*.adoc         text
+*.tex          text diff=tex
+*.txt          text
+LICENSE        text
+README*        text
+CHANGELOG*     text
+CONTRIBUTING*  text
+AUTHORS        text
+
+# ---------------------------------------------------------------------------
+# SQL
+# ---------------------------------------------------------------------------
+*.sql          text
+*.ddl          text
+*.dml          text
+
+# ---------------------------------------------------------------------------
+# Build / infra
+# ---------------------------------------------------------------------------
+Makefile       text eol=lf
+makefile       text eol=lf
+Dockerfile     text eol=lf
+*.dockerfile   text eol=lf
+*.mk           text eol=lf
+*.cmake        text
+CMakeLists.txt text
+*.gradle       text
+*.sbt          text
+*.bazel        text
+*.bzl          text
+BUILD          text
+WORKSPACE      text
+
+# ---------------------------------------------------------------------------
+# FiveM / GTA-specific
+# ---------------------------------------------------------------------------
+fxmanifest.lua text diff=lua
+__resource.lua text diff=lua
+*.rpf          binary
+*.ymt          binary
+*.ytd          binary
+*.ydr          binary
+*.ydd          binary
+*.yft          binary
+*.ynv          binary
+*.ybn          binary
+*.ycd          binary
+*.ymap          binary
+*.ymf          binary
+*.ytyp         binary
+*.ypt          binary
+*.awc          binary
+*.oiv          binary
+*.asi          binary
+
+# ---------------------------------------------------------------------------
+# Binary assets (never normalize, never diff as text)
+# ---------------------------------------------------------------------------
+# Images
+*.png          binary
+*.jpg          binary
+*.jpeg         binary
+*.gif          binary
+*.ico          binary
+*.bmp          binary
+*.tif          binary
+*.tiff         binary
+*.webp         binary
+*.avif         binary
+*.heic         binary
+*.psd          binary
+*.ai           binary
+# Fonts
+*.ttf          binary
+*.otf          binary
+*.woff         binary
+*.woff2        binary
+*.eot          binary
+# Audio
+*.mp3          binary
+*.wav          binary
+*.ogg          binary
+*.flac         binary
+*.aac          binary
+*.m4a          binary
+# Video
+*.mp4          binary
+*.mov          binary
+*.avi          binary
+*.mkv          binary
+*.webm         binary
+# Archives / packages
+*.zip          binary
+*.tar          binary
+*.gz           binary
+*.tgz          binary
+*.bz2          binary
+*.xz           binary
+*.7z           binary
+*.rar          binary
+*.jar          binary
+*.war          binary
+*.ear          binary
+*.nupkg        binary
+*.whl          binary
+# Executables / libs
+*.exe          binary
+*.dll          binary
+*.so           binary
+*.dylib        binary
+*.a            binary
+*.o            binary
+*.obj          binary
+*.lib          binary
+*.class        binary
+*.pyc          binary
+*.pyo          binary
+# Docs / office
+*.pdf          binary
+*.doc          binary
+*.docx         binary
+*.xls          binary
+*.xlsx         binary
+*.ppt          binary
+*.pptx         binary
+# Databases
+*.db           binary
+*.sqlite       binary
+*.sqlite3      binary
+# 3D / game assets
+*.fbx          binary
+*.obj          binary
+*.blend        binary
+*.dae          binary
+*.gltf         binary
+*.glb          binary
+
+# ---------------------------------------------------------------------------
+# GitHub Linguist hints
+# ---------------------------------------------------------------------------
+*.lock             linguist-generated=true
+package-lock.json  linguist-generated=true
+yarn.lock          linguist-generated=true
+pnpm-lock.yaml     linguist-generated=true
