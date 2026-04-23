@@ -408,6 +408,113 @@ Already identified:
 
 ---
 
+## USDA 502 Deep Dive — Requirements & the Self-Employment Timing Wrinkle
+
+**Section 502 is a personal residential mortgage, not a business loan.** USDA won't look at LLRC at all for 502 purposes. No business plan, no Operating Agreement, no K-1s. The loan is made to you personally to buy your primary residence. The LLC address can be the same as the home address post-close, but the loan originates personal.
+
+### What 502 Requires (vs what it doesn't)
+
+| Requirement | 502 Guaranteed | 502 Direct |
+|-------------|----------------|------------|
+| Personal credit check | Yes | Yes |
+| Business plan | **No** | **No** |
+| Income limit (1–4 person, Chicot/Desha) | $119,850 | ~$51,100 (low/very-low tiers) |
+| Credit score target | 640+ for GUS auto / 580–639 manual | Similar; more leniency with payment history |
+| Down payment | $0 (100% financing) | $0 |
+| Upfront fee | 1.0% guarantee fee (financed) | None |
+| Annual fee | 0.35% of balance | None |
+| Rate | Market fixed (~6.5–7.0%) | Subsidized — as low as 1% with payment assistance |
+| Term | 30-year fixed | 33 years (38 for very-low-income) |
+| Processor | USDA-approved private lender | USDA directly |
+| Primary residence only | Yes | Yes |
+| Property must be rural-eligible | Yes (all Chicot/Desha qualify) | Yes |
+| Typical close time | 45–60 days | 60–90+ days |
+
+### Debt-to-Income Tests (Both Must Pass)
+
+- **Front-end ratio (housing only):** ≤ 29% of gross monthly income — PITI + HOA
+- **Back-end ratio (total debt):** ≤ 41% of gross monthly income — includes car, credit cards, student loans, child support, etc.
+- GUS can approve higher ratios with compensating factors (strong credit, reserves, stable employment)
+
+### Document Checklist
+
+**Identity & Basics**
+- Government ID, Social Security card, proof of residency
+
+**Income — W-2 Employee Track**
+- 2 years W-2s
+- 30 days of recent pay stubs
+- 2 years federal tax returns (signed)
+- Written Verification of Employment (VOE) — lender requests from employer
+
+**Income — Self-Employed / LLC Member Track**
+- **2 years personal federal tax returns** with all schedules
+- **2 years business federal returns** (Form 1065 if partnership, 1120-S if S-corp) with all K-1s
+- Year-to-date P&L + balance sheet
+- 1099s received
+- Signed IRS Form 4506-C (lender pulls transcripts directly from IRS)
+
+**Assets**
+- 2 months of statements for all bank / brokerage / retirement accounts
+- Paper-trail any deposits over ~$500 non-payroll
+
+**Debts**
+- Full list of debts with account numbers, balances, minimums (pull happens via credit report regardless)
+
+**Other**
+- Divorce decrees / child support orders (if applicable)
+- Landlord VOR (12 months canceled checks or landlord letter) if currently renting
+- Credit-blemish explanation letters
+
+### ⚠️ The Self-Employment Timing Wrinkle (Specific to LLRC Founders)
+
+**USDA self-employment rules are brutal on new businesses:**
+
+- They require **2 years of tax-return-documented self-employment income** before LLC earnings count
+- A brand-new LLC with zero filed returns = **LLC income doesn't count at all**
+- **Grant income** is often treated as non-recurring by underwriters — may not count for qualifying
+
+**If William just leaves W-2 employment and LLC becomes his only income source, he may not qualify for 502-Guaranteed for 2+ years.** The three realistic workarounds:
+
+1. **Qualify on current/prior employment income (easiest).** If currently employed or recently left a W-2 job within the lender's lookback window (typically 2 years of returns), USDA will use W-2 income. **Close the 502 BEFORE formally leaving W-2 employment** — don't wait until fully transitioned.
+2. **Co-borrower with stable W-2 income.** Spouse or partner whose income alone carries the DTI. LLC income is irrelevant to the qualification math.
+3. **Wait 2 years.** File 2026 + 2027 personal returns showing LLC K-1 income, then qualify in 2028. Doesn't match "move ASAP."
+
+### Disqualifiers
+
+- Bankruptcy discharged in the last 3 years (Chapter 13 can count if discharged 12+ months with on-time payments)
+- Foreclosure in the last 3 years
+- Currently delinquent on any federal debt (student loans, tax liens)
+- Property not in USDA-eligible rural area (not an issue in Chicot/Desha)
+- Not intended as primary residence
+
+### First-Call Prep (Rebecca Buck, 870-367-8400 x4)
+
+Have these numbers ready before you dial:
+- Gross annual household income (all earners)
+- Household size
+- Estimated FICO (free via Credit Karma / annualcreditreport.com)
+- Current rent or mortgage payment
+- Total monthly debt minimums
+- Employment status — if recently self-employed, how long?
+- Any bankruptcies or foreclosures in the last 3 years?
+- Desired property price range
+
+She'll pre-qualify you verbally on the call — 20 minutes, no application at that stage.
+
+### If 502 Doesn't Work, Conventional Mortgage in the Delta Is Viable
+
+A $120K Tillar house with 10% down is a $12K out-of-pocket conventional purchase. Given Delta prices, the "100% financing" advantage of 502 is less decisive than it would be in a $350K market.
+
+### Bottom Line
+
+- **No business plan, ever** — this isn't a business loan
+- **Personal credit pull is standard** (640+ is the GUS happy path)
+- **Timing matters most:** apply while you still have W-2 income on record, NOT after the LLC is your only income
+- If the income situation doesn't work, 10%-down conventional is a straightforward fallback
+
+---
+
 ## Immediate Playbook (Next 7 Days)
 
 ### Day 1 (Today)
