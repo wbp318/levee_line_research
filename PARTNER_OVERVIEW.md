@@ -265,3 +265,4 @@ All formation and strategy documents are prepared and available:
 | 10 | [Louisiana Grants Strategy](louisiana/10_LOUISIANA_GRANTS_STRATEGY.md) | Ready |
 | **11** | **[Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md)** | **Primary formation path** |
 | **12** | **[Property Search](arkansas/12_PROPERTY_SEARCH.md)** | **Chicot/Desha house hunting** |
+| **13** | **[State Grants Timing](arkansas/13_STATE_GRANTS_TIMING.md)** | **Grant execution manual — timelines, earmarks, clawbacks** |

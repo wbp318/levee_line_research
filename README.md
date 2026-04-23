@@ -151,7 +151,8 @@ Organized into topical folders:
 | # | Document | Description |
 |---|----------|-------------|
 | **11** | **[Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md)** | **AR formation, compliance, grants, universities, NSF EPSCoR/DART, NIFA pipeline, STTR concepts, residency playbook** |
-| **12** | **[Property Search](arkansas/12_PROPERTY_SEARCH.md)** | **Chicot & Desha County property market, listings, realtors, USDA financing, move-in playbook** |
+| **12** | **[Property Search](arkansas/12_PROPERTY_SEARCH.md)** | **Chicot & Desha County property market, listings, realtors, USDA 502 financing, move-in playbook** |
+| **13** | **[State Grants Timing](arkansas/13_STATE_GRANTS_TIMING.md)** | **Operational manual — app-to-cash timelines, earmarks, clawbacks, pre-commitment traps for every AR/federal program** |
 
 ### `formation/` — LLC formation documents
 | # | Document | Description |

@@ -163,6 +163,15 @@ Arkansas Tax Procedure Act (26 CAR § 30-1211): retain accounting records, sourc
 
 Parallel to [`10_LOUISIANA_GRANTS_STRATEGY.md`](../louisiana/10_LOUISIANA_GRANTS_STRATEGY.md) for AR.
 
+**For operational detail — timing, earmarks, reporting burden, clawback triggers, and the pre-commitment trap — see [`13_STATE_GRANTS_TIMING.md`](13_STATE_GRANTS_TIMING.md).** This section summarizes what each program is; doc 13 tells you exactly how and when to engage.
+
+### ⚠️ Read Before Engaging Any AR Incentive
+
+1. **Pre-commitment trap:** For every AEDC credit (R&D, Advantage AR, Create Rebate, ArkPlus, InvestArk), a signed Financial Incentive Agreement (FIA) must be in place **BEFORE** you spend a dollar of qualifying R&D, hire anyone, or sign a lease tied to the project. Spending before the FIA is signed permanently disqualifies those expenses from the credit base.
+2. **Targeted Business status is NOT automatic.** It requires $250K equity + 150% wage threshold + sector fit. LLRC at $500 initial capital does not qualify until a partner capital raise or first SBIR award bridges the gap. Until then, **Strategic Value R&D credit (33%, non-transferable) is the fallback**, not the Targeted Business credit.
+3. **R&D credits cover wages and fringe ONLY** — not supplies, equipment, cloud compute, or buildings. Federal IRC §41 QRE definitions apply.
+4. **State FY runs July 1 – June 30.** EITC's $6.25M annual cap is first-come, first-served; July–September is the safest window.
+
 ### 1. AEDC SBIR Matching Grant
 
 - **Amount:** Up to 50% of federal SBIR award — **max $50K Phase I / max $100K Phase II**
