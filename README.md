@@ -1,51 +1,96 @@
 # Levee Line Research LLC
 
-AI agriculture R&D LLC forming in Louisiana — East Carroll Parish, Mississippi Delta. **Louisiana is the formation state** (decision locked 2026-05-11). Arkansas is now a cross-border R&D partnership angle only: a research subcontract with UAPB or UADA unlocks the AR University-Based R&D Tax Credit (33%, no cap) without requiring AR domicile or relocation. See [AR Cross-Border Access](louisiana/13_AR_CROSS_BORDER.md) for what's accessible from a LA-domiciled LLC. The Arkansas relocation docs (`arkansas/11`–`13`) are preserved as reference but are no longer the primary path.
+AI agriculture R&D LLC forming in Louisiana — East Carroll Parish, Mississippi Delta. Single-member, member-managed. Sole member and operator: William Brooks Parker. Formation locked 2026-05-11.
 
-**Entity:** Levee Line Research LLC
-**State of Formation:** Louisiana
-**Structure:** Single-member LLC, member-managed
-**Sole Member:** William Brooks Parker (100%)
-**Advisory Board:** Non-equity (see Operating Agreement Article XV)
-**NAICS Code:** 541715 — Research and Development in the Physical, Engineering, and Life Sciences
-**Primary Address:** 689 Lensing Lane, Lake Providence, LA 71254 (East Carroll Parish)
-**Cross-border R&D angle:** Subcontracts with UAPB (1890 land-grant, Pine Bluff, ~100 mi) and/or UADA Rohwer Research Station (Desha County, ~30 mi) to access AR University-Based R&D Credit + ARA Impact Grant industry-partner slot
+---
+
+## ✅ The Checklist — Start Here
+
+Work top-to-bottom. Each section blocks on the previous one only where noted. Full detail in [`00_MASTER_CHECKLIST.md`](00_MASTER_CHECKLIST.md).
+
+### 🟢 RIGHT NOW — Free Actions While Waiting on Formation Cash
+
+You can do all of this for **$0** before the LLC is even filed. Full walkthroughs in [`JUMPSTART.md`](JUMPSTART.md).
+
+- [ ] **Name search** on LA SOS to confirm `Levee Line Research LLC` is available → https://www.sos.la.gov/BusinessServices/SearchForBusinessFilings/Pages/default.aspx
+- [ ] **Pull credit reports** at annualcreditreport.com (the only legit free source) — dispute any errors immediately, 30-day clock runs in background → [JUMPSTART.md §A](JUMPSTART.md)
+- [ ] **Send the LSU AgCenter outreach email** (Northeast Research Station, St. Joseph LA) → [EMAIL_DRAFTS.md Email 1](EMAIL_DRAFTS.md)
+- [ ] **Send the UADA Rohwer email** to Linda Martin — unlocks AR 33% University-Based R&D Credit path → [EMAIL_DRAFTS.md Email 2](EMAIL_DRAFTS.md)
+- [ ] **Send the UAPB ORSP email** — 1890 land-grant subaward path → [EMAIL_DRAFTS.md Email 3](EMAIL_DRAFTS.md)
+- [ ] **Identify 3–5 local growers** for future letters of support → [EMAIL_DRAFTS.md Email 4 template](EMAIL_DRAFTS.md)
+- [ ] **Draft your one-paragraph problem statement** → [JUMPSTART.md §C](JUMPSTART.md)
+- [ ] **Fill in the PI biosketch** (NIH 5-page format) → [JUMPSTART.md §D](JUMPSTART.md)
+- [ ] **Set up QRE tracking spreadsheet** — every research-related expense from day one counts toward the LA R&D Tax Credit
+
+### 🟡 DAY 1 — When the $125 Is Available
+
+Total cost: **$125**. Order matters — each step needs the previous one's output.
+
+- [ ] **File Articles of Organization** with LA SOS — single-member, member-managed — $100 online + $25 initial report → [formation/01_ARTICLES_OF_ORGANIZATION.md](formation/01_ARTICLES_OF_ORGANIZATION.md)
+- [ ] **Apply for EIN** at IRS — select LLC / Single Member / Disregarded Entity — free, instant → [formation/03_EIN_APPLICATION.md](formation/03_EIN_APPLICATION.md)
+- [ ] **Save the EIN confirmation letter (CP 575)** — print, PDF, back up
+
+### 🟡 WEEK 1 — Federal & State Registrations + Banking
+
+All free. Total cost over the week: just the $30 certified copy of Articles.
+
+- [ ] **Sign the Operating Agreement** (notarize if you can — recommended for the liability shield) → [formation/02_OPERATING_AGREEMENT.md](formation/02_OPERATING_AGREEMENT.md)
+- [ ] **Order a certified copy of Articles** ($30) — needed for bank and grants → LA SOS
+- [ ] **Start SAM.gov registration** — takes 2–4 weeks, clock starts now → [federal/06_FEDERAL_REGISTRATION.md](federal/06_FEDERAL_REGISTRATION.md)
+- [ ] **Open a business bank account** — Mercury (online, fastest, soft credit pull) or Tensas State Bank (local) → [banking/05_BANK_ACCOUNT_SETUP.md](banking/05_BANK_ACCOUNT_SETUP.md)
+- [ ] **Register with LA Department of Revenue** → https://latap.revenue.louisiana.gov/
+- [ ] **Call East Carroll Parish Police Jury** (318-559-2256) re: occupational license
+- [ ] **Contact Louisiana LTTO** — request the **$5,000 SBIR/STTR proposal-prep reimbursement** → https://www.opportunitylouisiana.gov/ltto
+- [ ] **Register on Grants.gov, SBIR.gov, Research.gov** once SAM.gov is active
+- [ ] **Set Grants.gov alerts** for USDA NIFA SBIR, AFRI A1541, AFRI Foundational, NSF SBIR
+
+### 🟡 ONGOING — Proposal Production & Funding Stack
+
+- [ ] **Decide on UAPB or UADA Rohwer research subcontract** — single highest-ROI move for AR funding access (33% credit, no relocation needed) → [louisiana/13_AR_CROSS_BORDER.md](louisiana/13_AR_CROSS_BORDER.md)
+- [ ] **Draft Phase I proposal** using `funding/14_RESEARCH_IMPACT.md` and `funding/15_USDA_SBIR_TOPIC_MAPPING.md` as raw material
+- [ ] **Apply for LA R&D Tax Credit on 2026-07-01** — day-one filing for the $12M statewide cap (first-come, first-served)
+- [ ] **Submit NSF SBIR Project Pitch** as soon as Research.gov account is active (rolling, ~3-week response)
+- [ ] **Watch for USDA NIFA SBIR FY26/27 RFA** — expected summer 2026 after the April reauthorization
+- [ ] **Watch for AFRI A1541 DSFAS FY27 RFA** — expected late summer 2026 (tightest fit, $650K cap)
+- [ ] **Apply for LA Innovation Retention Grant** ($100K) **immediately** upon any federal SBIR/STTR Phase I or II award
+
+### ⚠️ Hard Deadlines (current as of 2026-05-11)
+
+| Date | What | Action |
+|------|------|--------|
+| **2026-05-21** | NASA SBIR Appendix B INSTALG.5.S26B (Remote Sensing) | Assess fit; only fully-open federal SBIR for ag-remote-sensing right now |
+| **2026-07-01** | LA R&D Tax Credit FY26-27 allocation opens | File day-one — first-come, first-served vs $12M cap |
+| Late summer 2026 (TBD) | USDA NIFA SBIR FY26/27 Phase I RFA expected | Set Grants.gov alerts now |
+| Late summer 2026 (TBD) | AFRI A1541 DSFAS FY27 RFA expected | Tightest single fit; line up LSU AgCenter letter of support now |
+| Rolling | NSF SBIR Project Pitches | Submit early after Research.gov account is active |
+| Annual | LA Annual Report ($30 online) on formation anniversary | LA franchise tax is repealed — no franchise filing |
+
+**For the complete day-by-day breakdown including Months 2–3 and beyond, see [`00_MASTER_CHECKLIST.md`](00_MASTER_CHECKLIST.md).**
+
+---
+
+## Quick Facts
+
+| Field | Value |
+|-------|-------|
+| **Entity** | Levee Line Research LLC |
+| **State of Formation** | Louisiana |
+| **Structure** | Single-member LLC, member-managed |
+| **Sole Member** | William Brooks Parker (100%) |
+| **Advisory Board** | Non-equity (Operating Agreement Article XV) |
+| **NAICS Code** | 541715 — R&D in Physical, Engineering, and Life Sciences |
+| **Primary Address** | 689 Lensing Lane, Lake Providence, LA 71254 (East Carroll Parish) |
+| **Cross-border R&D angle** | Subcontracts with UAPB (1890 land-grant, ~100 mi) and/or UADA Rohwer (Desha County, ~30 mi) for 33% AR University-Based R&D Credit |
 
 > Establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences, such as agriculture, biology, environmental science, and veterinary sciences. Includes AI and machine learning applications in agricultural research.
 
 ---
 
-## Commercial Product: agtools
+## Commercial Product: AgTools
 
-Levee Line Research LLC is the R&D engine. **[agtools](AGTOOLS.md) is the commercial product** — a production-grade crop consulting system with pest/disease identification, spray recommendations, economic analysis, and direct **John Deere Operations Center (JDOps) integration**. v6.17.0, 347+ commits, mature Docker deployment. Proprietary, commercially licensed; source not open. Read access available to qualified parties (grant reviewers, university partners under NDA) on request.
+Levee Line Research LLC is the R&D engine. **[AgTools](AGTOOLS.md) is the commercial product** — a production-grade agricultural decision support platform with pest/disease ID, spray recommendations, EPA/IPCC sustainability accounting, climate/GDD tracking, field-trial research tools with built-in statistics, yield prediction, crop health scoring, full GenFin accounting, GIS mapping with QGIS integration, livestock management, and direct **John Deere Operations Center (JDOps) OAuth integration**. v6.17.0, 347+ commits, 830+ FastAPI endpoints, 1,042 tests. Proprietary, commercially licensed; source not open. Read access available to qualified parties (grant reviewers, university partners under NDA) on request.
 
-The Levee Line / agtools split is intentional: federally-funded research flows from Levee Line; commercial deployment flows through agtools. This is what an SBIR Phase III commercialization plan looks like when it's not hypothetical. Full detail in [AGTOOLS.md](AGTOOLS.md).
-
----
-
-## Action Items — May 11, 2026
-
-### DO TODAY
-1. **Name search** LA SOS: https://www.sos.la.gov/BusinessServices/SearchForBusinessFilings/Pages/default.aspx — confirm `Levee Line Research LLC` available
-2. **File Articles of Organization** with LA Secretary of State — [$100 online + $25 initial report](https://www.sos.la.gov/BusinessServices/FileBusinessDocuments/Pages/default.aspx) → see [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md)
-3. **Apply for EIN** — [free, instant online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) → see [EIN Application Guide](formation/03_EIN_APPLICATION.md)
-4. **Start SAM.gov registration** — takes 2-4 weeks, clock starts now → see [Federal Registration Guide](federal/06_FEDERAL_REGISTRATION.md)
-
-### DO THIS WEEK
-5. **Contact Louisiana LTTO** — request the $5K SBIR/STTR proposal-prep reimbursement before you start writing. https://www.opportunitylouisiana.gov/ltto
-6. **Email LSU AgCenter** — Northeast Research Station (St. Joseph, LA — ~40 mi south of Lake Providence) and Baton Rouge digital-ag faculty. Letters of support / sub-award path for AFRI A1541 DSFAS.
-7. **Start a QRE log** — every cloud API charge, sensor, drone part, subscription. Goes into LA R&D Tax Credit app the moment the July 1 window opens.
-8. **Create Research.gov account** — required for NSF SBIR Project Pitches (resumed mid-April 2026) → [research.gov](https://www.research.gov)
-9. **Open business bank account** (after EIN confirmed) — see [Bank Account Setup](banking/05_BANK_ACCOUNT_SETUP.md). Mercury or Tensas State Bank are the cleanest options.
-10. **Decide whether to sign a UAPB or UADA research subcontract** — this is the single move that unlocks AR's 33% University-Based R&D Credit without relocating. See [AR Cross-Border Access](louisiana/13_AR_CROSS_BORDER.md).
-
-### UPCOMING DEADLINES (current as of 2026-05-11)
-- **⚠️ NASA SBIR Appendix B (Remote Sensing — INSTALG.5.S26B)** — due **May 21, 2026**. Only fully-open federal SBIR for ag-remote-sensing right now. Tight, but assess.
-- **July 1, 2026** — LA R&D Tax Credit FY26-27 allocation opens. First-come, first-served against the $12M statewide cap. File on day one.
-- **Late summer 2026 (TBD)** — USDA NIFA SBIR FY26/27 Phase I solicitation expected to drop after April 2026 reauthorization. Set Grants.gov alerts now.
-- **Late summer 2026 (TBD)** — **AFRI A1541 DSFAS FY27 RFA expected** — the tightest single fit for AI-ag work. $650K cap, 3–5 yr.
-- **NSF SBIR Project Pitches** — resumed ~Apr 16, 2026 after the FY25 lapse. Rolling. Submit early.
-- **Annual** — LA Annual Report ($30 online) due on formation anniversary. LA franchise tax is repealed effective 2026-01-01 — no franchise filing.
+The Levee Line / AgTools split is intentional: federally-funded research flows from Levee Line; commercial deployment flows through AgTools. This is what an SBIR Phase III commercialization plan looks like when it's not hypothetical. Full detail in [AGTOOLS.md](AGTOOLS.md).
 
 ---
 
@@ -217,8 +262,12 @@ Organized into topical folders:
 ### Top-level
 | Document | Description |
 |----------|-------------|
-| [Partner Overview](PARTNER_OVERVIEW.md) | Executive summary for partner meetings |
-| [Master Checklist](00_MASTER_CHECKLIST.md) | Step-by-step formation and grant readiness checklist |
+| **[Master Checklist](00_MASTER_CHECKLIST.md)** | **The canonical action plan — every step, in order, with URLs and dollar costs** |
+| **[JUMPSTART.md](JUMPSTART.md)** | **Free $0 actions for the waiting-on-cash phase (credit reports, university emails, problem statement, PI biosketch)** |
+| **[EMAIL_DRAFTS.md](EMAIL_DRAFTS.md)** | **Copy-and-send outreach emails for LSU AgCenter, UADA Rohwer, UAPB ORSP, and local growers** |
+| **[RULES.md](RULES.md)** | **The non-negotiables — structure, SBIR affiliation, scope discipline, AI-tool usage, AR cross-border posture** |
+| **[AGTOOLS.md](AGTOOLS.md)** | **Commercial product showcase — what AgTools is, its architecture, and how it strengthens grant applications** |
+| [Founder Overview](PARTNER_OVERVIEW.md) | Executive summary for advisor and collaborator meetings |
 
 ### `louisiana/` — Primary formation path
 | # | Document | Description |
@@ -230,9 +279,9 @@ Organized into topical folders:
 ### `formation/` — LLC formation documents
 | # | Document | Description |
 |---|----------|-------------|
-| 01 | [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md) | LA Secretary of State filing guide |
-| 02 | [Operating Agreement](formation/02_OPERATING_AGREEMENT.md) | Multi-member, manager-managed LLC agreement |
-| 03 | [EIN Application](formation/03_EIN_APPLICATION.md) | IRS Employer Identification Number guide |
+| 01 | [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md) | LA Secretary of State filing guide (single-member, member-managed) |
+| 02 | [Operating Agreement](formation/02_OPERATING_AGREEMENT.md) | Single-member OA with Advisory Board framework (Article XV) and SBIR-affiliation caution on future member admission |
+| 03 | [EIN Application](formation/03_EIN_APPLICATION.md) | IRS EIN guide for single-member disregarded-entity LLC |
 
 ### `federal/` — Federal grant registration
 | # | Document | Description |
@@ -244,6 +293,8 @@ Organized into topical folders:
 |---|----------|-------------|
 | 07 | [Funding Roadmap](funding/07_FUNDING_ROADMAP.md) | SBA loans, SBIR grants, state programs |
 | 08 | [Grant Calendar](funding/08_GRANT_CALENDAR.md) | All deadlines and funding timelines |
+| 14 | [Research Impact Statement](funding/14_RESEARCH_IMPACT.md) | Broader-impacts narrative reusable across federal grants |
+| 15 | [USDA SBIR Topic Mapping](funding/15_USDA_SBIR_TOPIC_MAPPING.md) | Granular Topic 8.2 / 8.3 / 8.5 / 8.9 fit + application-readiness checklist |
 
 ### `banking/` — Banking setup
 | # | Document | Description |
