@@ -4,14 +4,22 @@ AI agriculture R&D LLC forming in Louisiana — East Carroll Parish, Mississippi
 
 **Entity:** Levee Line Research LLC
 **State of Formation:** Louisiana
-**Structure:** Manager-managed, multi-member LLC
-**Managing Member:** William Brooks Parker (51%)
-**Additional Members:** Up to 3 partners sharing remaining 49% (TBD)
+**Structure:** Single-member LLC, member-managed
+**Sole Member:** William Brooks Parker (100%)
+**Advisory Board:** Non-equity (see Operating Agreement Article XV)
 **NAICS Code:** 541715 — Research and Development in the Physical, Engineering, and Life Sciences
 **Primary Address:** 689 Lensing Lane, Lake Providence, LA 71254 (East Carroll Parish)
 **Cross-border R&D angle:** Subcontracts with UAPB (1890 land-grant, Pine Bluff, ~100 mi) and/or UADA Rohwer Research Station (Desha County, ~30 mi) to access AR University-Based R&D Credit + ARA Impact Grant industry-partner slot
 
 > Establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences, such as agriculture, biology, environmental science, and veterinary sciences. Includes AI and machine learning applications in agricultural research.
+
+---
+
+## Commercial Product: agtools
+
+Levee Line Research LLC is the R&D engine. **[agtools](AGTOOLS.md) is the commercial product** — a production-grade crop consulting system with pest/disease identification, spray recommendations, economic analysis, and direct **John Deere Operations Center (JDOps) integration**. v6.17.0, 347+ commits, mature Docker deployment. Proprietary, commercially licensed; source not open. Read access available to qualified parties (grant reviewers, university partners under NDA) on request.
+
+The Levee Line / agtools split is intentional: federally-funded research flows from Levee Line; commercial deployment flows through agtools. This is what an SBIR Phase III commercialization plan looks like when it's not hypothetical. Full detail in [AGTOOLS.md](AGTOOLS.md).
 
 ---
 
