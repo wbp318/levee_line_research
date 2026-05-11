@@ -169,3 +169,67 @@ Reach out to these institutions for AFRI collaborations and research partnership
 3. **Q4 2026:** Submit USDA SBIR Phase I proposal with preliminary results
 4. **Q1 2027:** If NSF SBIR awarded, begin Phase I research program
 5. **Q2 2027:** Present results at a regional ag conference (e.g., Beltwide Cotton Conference, Delta Farm Press events)
+
+---
+
+## Flagship A1541 DSFAS Project Concept
+
+**Working title:** _Interpretable multi-modal yield-gap prediction for small-and-mid Mississippi Delta row-crop operations: fusing UAV thermal/multispectral, Sentinel-2/Landsat, and ground-sensor data with farmer-in-the-loop validation._
+
+**Why this concept fits A1541 specifically:**
+- **Equal grounding in ag science and data science.** Ag-science half: agronomic yield-gap analysis on Delta cotton/soy/corn across smallholder fields underserved by commercial precision-ag platforms. Data-science half: multi-modal sensor fusion + spatial-transformer architecture + post-hoc interpretability (SHAP, attention rollout).
+- **Targets a real ag problem.** Yield gaps on small-and-mid Delta farms are documented but poorly explained at field-level resolution because commercial tools target large operations.
+- **Defensible novelty.** Most public yield-prediction models use either satellite-only or sensor-only inputs; few fuse three modalities at <10 m resolution, and almost none ship with farmer-validated interpretability for non-technical end-users.
+- **Has a commercialization pathway.** $20–$50/month SaaS targeted at the small-and-mid grower segment that Climate FieldView/Granular under-serve.
+- **Has a clear "broader impacts" frame.** East Carroll Parish is rural and economically distressed; reaches underserved farmers who can't afford $50K/yr precision-ag platforms.
+
+**Required ingredients to make this winnable:**
+- LSU AgCenter co-PI or strong letter of support (Northeast Research Station, St. Joseph LA)
+- 3–5 cooperating Delta growers with signed data-sharing agreements (start collecting now)
+- Documented baseline against published methods (state of the art for satellite-only yield models)
+- Pre-registered evaluation plan (test counties / test seasons held out)
+- Data Management Plan compliant with NIFA FY2019+ requirements (see below)
+
+---
+
+## Data Management Plan Posture
+
+NIFA has required a Data Management Plan on every competitive grant since FY2019. Levee Line's default DMP boilerplate should cover:
+
+- **Data types collected:** UAV imagery (multispectral, thermal), satellite imagery (Sentinel-2, Landsat), soil moisture / temperature sensor logs, weather station data, yield monitor data from cooperator farms, hand-labeled ground-truth annotations.
+- **Formats:** GeoTIFF for raster, COG-tiled for large archives, GeoParquet/CSV for tabular, JSON-LD for metadata. Imagery uses STAC catalog conventions.
+- **Metadata standards:** STAC for imagery, USDA NAL DataONE conventions for tabular, ISO 19115 for geospatial.
+- **Sharing/preservation:** Public-derived products (model weights, evaluation benchmarks) released to a public archive (Zenodo or AgDataCommons). Farmer-identifiable data and proprietary commercial inputs held privately under data-sharing agreements; aggregated derivatives publishable.
+- **IP considerations:** Pre-existing IP (model architectures, algorithms) held by Levee Line. Grant-generated software released under permissive license (Apache 2.0 or MIT) where contractually permitted; commercial deployment proceeds under company terms.
+- **Retention:** 7 years minimum per federal grant requirements; permanent for public derivatives.
+
+---
+
+## End-User Letters of Support — Strategy
+
+Letters from end-users (farmers, co-ops, extension agents, ag-tech buyers) are the cheapest competitive differentiator on USDA grants. They are not formally required but reviewers weight them heavily.
+
+**Target letter portfolio:**
+- 3–5 individual Delta row-crop growers (East Carroll, West Carroll, Madison, Tensas parishes — plus 1–2 Chicot AR if working that side)
+- 1–2 grower co-ops or producer associations
+- 1–2 extension agents (LSU AgCenter, UAPB)
+- 1 commercial ag-tech or input-supplier letter (Pivot Bio, Indigo, John Deere — frame as future commercial customer)
+
+**Letter content should specify:**
+- Why the problem matters to the signer
+- What specific commitment they'll provide (field access, data sharing, in-kind labor, Phase III purchase commitment)
+- Quantitative commitment where possible (acres available, growing seasons committed, dollar value of in-kind contribution)
+
+Start collecting at least placeholder commitments **now**. Real letters take 4–6 weeks lead time. The October–December SBIR window will arrive too quickly to start cold.
+
+---
+
+## Activity Discipline — What to Avoid
+
+The LLC's stated purpose is R&D in agriculture (NAICS 541715). Mixing unrelated activity into the same entity has real costs:
+
+- **LA R&D Tax Credit risk:** QREs must align with the entity's stated research mission. Non-ag revenue dilutes the credit basis and triggers scrutiny.
+- **Federal grant audit risk:** Grant funds and grant-funded researcher time must stay within the proposed scope. Co-mingled accounting on cross-business activity is an audit flag.
+- **NAICS / SBA size-standard risk:** SBIR eligibility tests headcount and affiliation including all entities under common control. Off-topic side businesses get pulled into the math.
+
+**The rule: revenue and activity outside ag-research go to a separate entity.** 318ecom LLC for e-commerce. A new entity for any other side ventures. Levee Line stays clean.

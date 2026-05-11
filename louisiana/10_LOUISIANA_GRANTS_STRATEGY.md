@@ -1,6 +1,43 @@
-# Louisiana State Grant & Loan Strategy — Levee Line Research LLC
+# Louisiana State + Federal Grant & Loan Strategy — Levee Line Research LLC
 
-Focused strategy for securing Louisiana state funding for an AI agricultural research company based in East Carroll Parish.
+_Last refreshed: 2026-05-11_
+
+Strategy for securing Louisiana **and federal** funding for an AI agricultural research company domiciled in East Carroll Parish. Louisiana is the primary formation state (locked 2026-05-11). Federal coverage below is current as of the May 2026 post-reauthorization window.
+
+---
+
+## Headline Federal Status — May 2026
+
+**SBIR/STTR was reauthorized through 9/30/2031.** S.3971 (Small Business Innovation and Economic Security Act) was signed into law on April 13–14, 2026, ending the ~6-month lapse that began October 1, 2025. Agencies are restarting on a compressed timeline:
+
+- **NSF** resumed Project Pitch processing on/around April 16, 2026. Rolling; respond within ~3 weeks.
+- **NASA** reopened submissions April 17, 2026. **Appendix B Subtopic INSTALG.5.S26B (Remote Sensing) is due May 21, 2026** — only fully-open federal SBIR for ag-remote-sensing right now.
+- **USDA NIFA SBIR FY26/27 Phase I** — solicitation restart expected late spring or summer 2026. Watch nifa.usda.gov/grants/programs/sbir-sttr.
+- **DOE Office of Science SBIR FY26** — release expected spring/summer 2026, LOI required.
+- **AFRI A1541 DSFAS (Data Science for Food & Ag)** — FY26 cycle closed Dec 18, 2025. **FY27 RFA expected late summer 2026.** This is the **single tightest fit** for an AI-ag company — $650K cap, 3–5 year projects, requires equal grounding in ag science and data science.
+
+**USDA Climate-Smart Commodities was canceled April 2025** and replaced by **AMP** (Advancing Markets for Producers). Do not plan around CSC — it's dead.
+
+**New USDA–DARPA Food Security MOU (Feb 2026)** embeds agriculture into the National Farm Security Action Plan. DARPA's Food Systems Security (FS2) program now has a clearer ag-security funding lane that didn't exist a year ago.
+
+---
+
+## Federal Quick-Reference Table
+
+| Program | Sponsor | Status (May 2026) | Award Size | Next Deadline | Fit |
+|---|---|---|---|---|---|
+| **AFRI A1541 DSFAS** | USDA NIFA | FY26 closed; **FY27 RFA late summer 2026** | $650K, 3–5 yr | TBD | **Very high** |
+| **USDA NIFA SBIR Phase I** | USDA NIFA | Restart expected summer 2026 | $175K, 8 mo | TBD | **High** (Topics 8.2, 8.4, 8.13) |
+| **NSF SBIR Phase I (AI topic)** | NSF | Project Pitches active | up to ~$305K | Rolling pitch | **High** |
+| **NASA SBIR Appendix B INSTALG.5.S26B** | NASA | OPEN | $150K Phase I | **2026-05-21** | High (if remote-sensing subtopic fits) |
+| **AFRI A1531 / AFRI Foundational** | USDA NIFA | Active | $300K–$650K | Per AFRI cycle | High |
+| **AFRI SAS (Strengthening Ag Systems CAP)** | USDA NIFA | Active | $1M–$10M | Per cycle | Medium (pursue as sub-awardee under LSU AgCenter — too large to prime year 1) |
+| **NRCS Conservation Innovation Grants (CIG)** | NRCS | Next 2026 cycle TBD | up to $2M Classic / $5M On-Farm Trials | TBD | High (precision-ag for conservation in-scope) |
+| **DARPA SBIR/STTR (FS2)** | DARPA | New emphasis post Feb 2026 USDA MOU | varies | DoD portal | Medium-high (if security framing works) |
+| **DOE Office of Science SBIR** | DOE | FY26 release expected | $200K–$275K Phase I | LOI required first | Low-medium |
+| **USDA REAP** | USDA RD | Grant intake paused FY26; loans flowing | 50% reimbursement up to $500K | Delayed | Low (energy, not AI) |
+| **USDA Climate-Smart Commodities** | USDA | **CANCELED — replaced by AMP** | n/a | n/a | **Do not pursue** |
+| **Delta Regional Authority SEDAP / Workforce** | DRA | 2026 pre-application sessions open | $50K–$1M | Rolling, state-allocated | **High for year 2+** (East Carroll is in DRA service area) |
 
 ---
 
@@ -244,3 +281,105 @@ Being in East Carroll Parish gives you specific advantages for Louisiana funding
 3. **May:** Start networking with Growth Fund partner organizations
 4. **July 1:** Submit R&D Tax Credit application on opening day
 5. **After first SBIR award:** Submit Innovation Retention Grant application immediately
+
+---
+
+## Scope of Work — What Activities Qualify
+
+Grants reward specific kinds of activity. Doing the work is not the same as doing the work in a *fundable shape*. This section translates the rules into what Levee Line's day-to-day needs to look like to qualify.
+
+### SBIR Phase I (USDA, NSF, NASA, DOE)
+
+Phase I funds **feasibility research**, not productization. The work must de-risk technical feasibility of a novel innovation.
+
+| Counts as Phase I activity | Doesn't count |
+|---|---|
+| Novel algorithm development (new architecture, new loss function, new sensor-fusion approach) | Routine model retraining |
+| Ground-truthing computer vision against new label sets / new crops / new geographies | Productionized SaaS deployment for customers |
+| Multi-source data fusion experiments (UAV + Sentinel-2 + ground sensors) | Building a polished customer-facing dashboard |
+| Validating yield models across new growing regions | Marketing, sales, customer onboarding |
+| Building a labeled benchmark dataset where none exists | Re-implementing already-published methods |
+
+Required pieces of every SBIR Phase I proposal:
+- **Specific Aims** — 3 to 5 measurable, time-bounded objectives.
+- **Technical innovation statement** — what's novel, why prior art doesn't solve it.
+- **Commercialization plan** — even Phase I requires this. NSF and DOE require detail; USDA NIFA and DoD are lighter at Phase I but expect substance by Phase II.
+- **Letters of support** — from end-user farmers, co-ops, ag-tech buyers, extension agents. Strongly differentiates competitive applications.
+- **Data Management Plan** — mandatory for all NIFA competitive grants since FY2019. Cover formats, metadata, sharing/preservation, IP.
+- **Biosketches** (NIH-format), current and pending support, COI disclosure, environmental compliance.
+
+Phase I typical award sizes:
+- **USDA NIFA SBIR:** $175K, 8 months
+- **NSF SBIR:** up to ~$305K, 6–12 months
+- **NASA SBIR:** $150K, 6 months
+- **DOE SBIR:** $200K–$275K
+
+### AFRI A1541 DSFAS (Data Science for Food & Ag) — The Single Tightest Fit
+
+This program area is *exactly* what Levee Line does. Applications must be:
+
+- **Equally grounded in ag science AND data science/AI.** Lopsided applications (all AI, weak ag science — or vice versa) are non-competitive.
+- **Either Regular DSFAS (3–5 yr)** or **Coordinated Innovation Networks (CIN, 3–5 yr).**
+- Award cap: $650K standard.
+- No general cost-share requirement (unlike SAS which is 1:1).
+- End-user engagement (letters from farmers / co-ops / extension) is a competitive differentiator.
+
+The strongest A1541 narrative for Levee Line: **multi-source data fusion (UAV + Sentinel-2 + ground sensors) for Delta row-crop yield-gap prediction, with explicit interpretability layer and farmer-facing decision tooling**, in partnership with LSU AgCenter (Northeast Research Station, St. Joseph, LA — ~40 mi south of Lake Providence).
+
+### AFRI SAS (Strengthening Ag Systems CAP Grants)
+
+Too large to prime in Year 1. Pursue as a **sub-awardee** under LSU AgCenter or another university lead.
+
+- Must be **integrated** — research + education + extension. No single function can exceed two-thirds of the budget.
+- **1:1 cost share required** (sometimes waivable).
+- Awards $1M–$10M, multi-year.
+
+### USDA NIFA SBIR Topic Areas (Most Relevant for Levee Line)
+
+- **Topic 8.2 — Plant Production and Protection — Biology** (disease/pest detection AI)
+- **Topic 8.4 — Soil and Water Resources** (sensor analytics, water management AI)
+- **Topic 8.13 — Plant Production and Protection — Engineering** (precision-ag, variable-rate, robotics)
+
+### Universal Compliance Items (Apply to Every Federal Grant)
+
+- **Segregated accounting** — federal grants don't require a separate legal entity, but they require auditable separation. Use a dedicated grant fund / project code in QuickBooks. Time charging must be auditable.
+- **Negotiated Indirect Cost Rate Agreement (NICRA)** — optional but useful at Phase II+. Otherwise use the de minimis 15% rate (raised from 10% in 2024 under 2 CFR 200).
+- **IRB / IACUC** — generally **not** required for crop AI work. Becomes relevant if (a) drone footage incidentally captures farm workers and you process or publish identifying frames, (b) you survey farmers as research subjects, or (c) the work involves animals.
+
+### Louisiana R&D Tax Credit — What Counts as a QRE
+
+The LA R&D Tax Credit follows the federal Section 41 definition. Track from day one:
+
+- Wages/salaries for employees performing research (must be LA-incurred)
+- Supplies used in research
+- 65% of contract research payments to outside researchers
+- Cloud computing for model training (AWS, GCP, Anthropic API for novel research)
+- Data subscriptions used in research (satellite imagery, USDA datasets)
+- Software/hardware used for research (drones, sensors, dev tools)
+- Research-related travel (farm visits, field collection)
+
+What doesn't count:
+- Marketing, sales, customer support time
+- Routine maintenance of already-built systems
+- Work performed outside Louisiana (those QREs could count toward the AR University-Based credit if performed under a UAPB/UADA contract — see `13_AR_CROSS_BORDER.md`)
+- General overhead / administrative time
+
+---
+
+## LLC Structure — Grant-Eligibility Check
+
+The current 51%/49% manager-managed multi-member LLC structure is **clean for SBIR/STTR**:
+
+| Requirement | Levee Line Status |
+|---|---|
+| >50% owned and controlled by US citizens or permanent residents | Compliant (Parker 51%, additional members must also be US citizens/PRs for combined >50%) |
+| <500 employees including affiliates | Compliant |
+| For-profit | Compliant (LLC) |
+| Principal place of business in the US | Compliant (Lake Providence, LA) |
+| Manager-managed structure | Not a problem — SBIR/USDA don't distinguish member-managed vs manager-managed |
+| PI legally employed ≥20 hrs/wk by the company at award time | NSF requires this; verify Parker (or other technical principal) can commit. USDA/DoD are slightly more flexible at Phase I. |
+
+**Watch-outs:**
+- If any 49% member is a **non-US person**, the >50% US-owned test still must be met overall. Affiliation rules at 13 CFR 121.103 can pull entity-owners' headcount and ownership into eligibility math.
+- If any 49% member is **another entity** (especially a VC fund), affiliation rules apply. USDA SBIR does *not* allow VC-majority-owned awardees; NIH/NSF/DOE allow it case-by-case.
+- **Don't mix unrelated business activity into the LLC.** The stated NAICS purpose is 541715 R&D. Bundling non-research revenue (e.g., e-commerce, consulting, entertainment work) into Levee Line creates exposure on the LA R&D credit (QREs must align with the entity's research mission) and on federal grant audits (grant funds and grant-funded research must stay within the entity's purpose). Keep separate streams in separate entities — 318ecom LLC for ecommerce, a new entity for any other side ventures.

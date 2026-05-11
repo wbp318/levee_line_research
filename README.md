@@ -1,49 +1,114 @@
 # Levee Line Research LLC
 
-AI agriculture R&D LLC forming in the Mississippi Delta. **Arkansas is now the leading candidate formation state** — Chicot County (Lake Village area, ~15 miles north across the river from Lake Providence, LA) offers Rohwer Research Station (30 mi), UAM / AFRC / new Forest Health Research Center, UAPB's 1890 land-grant pipeline, NSF EPSCoR / DART context, and deeper ag-research university bench than LA. Louisiana remains Path C's fallback (form LA / foreign-register in AR). See [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) and [Property Search](arkansas/12_PROPERTY_SEARCH.md).
+AI agriculture R&D LLC forming in Louisiana — East Carroll Parish, Mississippi Delta. **Louisiana is the formation state** (decision locked 2026-05-11). Arkansas is now a cross-border R&D partnership angle only: a research subcontract with UAPB or UADA unlocks the AR University-Based R&D Tax Credit (33%, no cap) without requiring AR domicile or relocation. See [AR Cross-Border Access](louisiana/13_AR_CROSS_BORDER.md) for what's accessible from a LA-domiciled LLC. The Arkansas relocation docs (`arkansas/11`–`13`) are preserved as reference but are no longer the primary path.
 
 **Entity:** Levee Line Research LLC
+**State of Formation:** Louisiana
 **Structure:** Manager-managed, multi-member LLC
 **Managing Member:** William Brooks Parker (51%)
 **Additional Members:** Up to 3 partners sharing remaining 49% (TBD)
 **NAICS Code:** 541715 — Research and Development in the Physical, Engineering, and Life Sciences
 **Primary Address:** 689 Lensing Lane, Lake Providence, LA 71254 (East Carroll Parish)
-**AR Alternative Siting:** Chicot County, AR (Lake Village area) — Tier 4 distressed, DRA-eligible, in-scope for AR R&D tax credits and SBIR match
+**Cross-border R&D angle:** Subcontracts with UAPB (1890 land-grant, Pine Bluff, ~100 mi) and/or UADA Rohwer Research Station (Desha County, ~30 mi) to access AR University-Based R&D Credit + ARA Impact Grant industry-partner slot
 
 > Establishments primarily engaged in conducting research and experimental development in the physical, engineering, and life sciences, such as agriculture, biology, environmental science, and veterinary sciences. Includes AI and machine learning applications in agricultural research.
 
 ---
 
-## Action Items — April 15, 2026
+## Action Items — May 11, 2026
 
 ### DO TODAY
-1. **Name search** Arkansas SOS: https://www.ark.org/corp-search/ — confirm `Levee Line Research LLC` available
-2. **File LL-01** (AR Articles of Organization) — [$45 online](https://www.ark.org/sos/ofs/docs/index.php) → see [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part I (OR LA Articles at [$100 online](https://www.sos.la.gov/BusinessServices/FileBusinessDocuments/Pages/default.aspx) if Path C — see [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md))
+1. **Name search** LA SOS: https://www.sos.la.gov/BusinessServices/SearchForBusinessFilings/Pages/default.aspx — confirm `Levee Line Research LLC` available
+2. **File Articles of Organization** with LA Secretary of State — [$100 online + $25 initial report](https://www.sos.la.gov/BusinessServices/FileBusinessDocuments/Pages/default.aspx) → see [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md)
 3. **Apply for EIN** — [free, instant online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) → see [EIN Application Guide](formation/03_EIN_APPLICATION.md)
 4. **Start SAM.gov registration** — takes 2-4 weeks, clock starts now → see [Federal Registration Guide](federal/06_FEDERAL_REGISTRATION.md)
 
 ### DO THIS WEEK
-5. **Email AR university partners** — UAM Dean Blazier (Blazier@uamont.edu), UAM AFRC Geospatial (Zurqani), UADA TCO (agritco@uada.edu), UAPB ORSP (orsp@uapb.edu) → see [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part IV for intro scripts
-6. **Call AEDC Business Finance (501-682-5996)** — identify as NAICS 541715 Targeted Business; request R&D Financial Incentive Agreement template BEFORE any research spending
-7. **Call Chicot County Extension (870-265-8055)** and UAM ASBTDC (870-367-6811) — request intake meetings
-8. **Create Research.gov account** — needed for NSF SBIR Project Pitches → [research.gov](https://www.research.gov)
-9. **Assess DOE Genesis Mission feasibility** — application deadline is **April 28, 2026** → see [Grant Calendar](funding/08_GRANT_CALENDAR.md)
-10. **Finalize LA vs AR decision** — review [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) Part XII decision framework; current lean is **Path B (AR primary)**
-11. **Begin Chicot/Desha property search** — see [Property Search](arkansas/12_PROPERTY_SEARCH.md)
+5. **Contact Louisiana LTTO** — request the $5K SBIR/STTR proposal-prep reimbursement before you start writing. https://www.opportunitylouisiana.gov/ltto
+6. **Email LSU AgCenter** — Northeast Research Station (St. Joseph, LA — ~40 mi south of Lake Providence) and Baton Rouge digital-ag faculty. Letters of support / sub-award path for AFRI A1541 DSFAS.
+7. **Start a QRE log** — every cloud API charge, sensor, drone part, subscription. Goes into LA R&D Tax Credit app the moment the July 1 window opens.
+8. **Create Research.gov account** — required for NSF SBIR Project Pitches (resumed mid-April 2026) → [research.gov](https://www.research.gov)
+9. **Open business bank account** (after EIN confirmed) — see [Bank Account Setup](banking/05_BANK_ACCOUNT_SETUP.md). Mercury or Tensas State Bank are the cleanest options.
+10. **Decide whether to sign a UAPB or UADA research subcontract** — this is the single move that unlocks AR's 33% University-Based R&D Credit without relocating. See [AR Cross-Border Access](louisiana/13_AR_CROSS_BORDER.md).
 
-### UPCOMING DEADLINES
-- **April 23** — USDA AFRI A9231 AI for K-12 Food & Ag proposals due (if timing allows post-formation)
-- **April 28** — DOE Genesis Mission SBIR applications due
-- **⚠️ SBIR/STTR reauthorization** — programs lapsed 9/30/2025; NSF Project Pitches paused; watch for reopen
-- **May-June** — USDA SBIR FY2026 solicitation expected (pending reauthorization)
-- **May 1, 2027** — First AR annual franchise tax report ($150, LLC1_FT) — set reminder now
-- **July 1** — Louisiana R&D Tax Credit new allocation opens (relevant if Path C keeps LA open)
+### UPCOMING DEADLINES (current as of 2026-05-11)
+- **⚠️ NASA SBIR Appendix B (Remote Sensing — INSTALG.5.S26B)** — due **May 21, 2026**. Only fully-open federal SBIR for ag-remote-sensing right now. Tight, but assess.
+- **July 1, 2026** — LA R&D Tax Credit FY26-27 allocation opens. First-come, first-served against the $12M statewide cap. File on day one.
+- **Late summer 2026 (TBD)** — USDA NIFA SBIR FY26/27 Phase I solicitation expected to drop after April 2026 reauthorization. Set Grants.gov alerts now.
+- **Late summer 2026 (TBD)** — **AFRI A1541 DSFAS FY27 RFA expected** — the tightest single fit for AI-ag work. $650K cap, 3–5 yr.
+- **NSF SBIR Project Pitches** — resumed ~Apr 16, 2026 after the FY25 lapse. Rolling. Submit early.
+- **Annual** — LA Annual Report ($30 online) due on formation anniversary. LA franchise tax is repealed effective 2026-01-01 — no franchise filing.
 
 ---
 
-## Arkansas Highlights (Leading Path B)
+## Louisiana Highlights (Primary Path)
 
-Full detail in [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md). This is the at-a-glance reference.
+| Item | Value |
+|------|-------|
+| Articles of Organization | **$100 online + $25 initial report** |
+| Filing portal | https://www.sos.la.gov/BusinessServices/FileBusinessDocuments/Pages/default.aspx |
+| Name search | https://www.sos.la.gov/BusinessServices/SearchForBusinessFilings/Pages/default.aspx |
+| Processing | Same-day to a few days online |
+| Initial report | Required (filed with Articles) |
+| Annual Report | $30/yr online, due on formation anniversary |
+| LA franchise tax | **Repealed effective 2026-01-01** — no franchise filing |
+| LA top individual rate | 4.25% (passes through to members on K-1) |
+| Registered agent | Managing Member or commercial service |
+| Year-1 total formation | ~$155 (Articles + initial report + certified copy) |
+
+### Top LA Programs to Stack on Federal SBIR
+
+| Program | Amount | When | Key Requirement |
+|---------|--------|------|-----------------|
+| **LTTO proposal-prep reimbursement** | up to $5,000 | NOW (rolling) | LA-based small biz preparing SBIR/STTR proposal |
+| **LA R&D Tax Credit** | 5–30% of LA QREs | Apply July 1, 2026 (FY26-27 cap) | LA-incurred QREs; $12M statewide cap, first-come |
+| **Innovation Retention Grant (IRG)** | $100,000 over 2 yrs | After SBIR/STTR Phase I or II award | Must remain LA-domiciled |
+| **LA SSBCI equity / seed** | varies | Rolling via 9+ partner funds | Routed through participating funds, not direct LED |
+| **Delta Regional Authority (SEDAP, Workforce)** | $50K–$1M | Periodic, via North Delta Regional Planning | Infrastructure/workforce (not R&D) — defer to year 2+ |
+| **LSU AgCenter sub-award** | varies | When AgCenter primes USDA work | Sign collaboration MOU now to position |
+
+### LA Stacking — $275K NSF SBIR Phase I Hypothetical
+
+| Component | Amount |
+|-----------|--------|
+| Federal NSF SBIR Phase I | $275,000 |
+| LTTO proposal-prep reimbursement | ~$5,000 |
+| Innovation Retention Grant (Phase I) | $100,000 (over 2 yrs) |
+| LA R&D Tax Credit (30% on ~$50K QRE) | ~$15,000 |
+| **Direct cash Y1-2** | **~$395,000** |
+| Plus AR University-Based R&D Credit via UAPB/UADA contract (33% on AR-performed QREs) | varies |
+| Plus LSU AgCenter sub-award (when AgCenter primes USDA AFRI work) | varies |
+
+---
+
+## Arkansas — Cross-Border R&D Partnership Angle (No Relocation Required)
+
+The Arkansas relocation plan is shelved as of 2026-05-11. However, **a Louisiana-domiciled LLC can still access several AR programs by partnering rather than relocating.** Quick summary — full detail in [AR Cross-Border Access](louisiana/13_AR_CROSS_BORDER.md).
+
+| AR Program | Accessible Without AR Domicile? | What It Takes |
+|------------|----------------------------------|---------------|
+| **AEDC University-Based R&D Tax Credit (33%, no cap stated)** | **Yes** | Sign a research contract with an AR university (UAPB, UADA, UAM, A-State, etc.). The QREs paid under that contract qualify. |
+| **ARA Impact Grants** (industry-partner role) | **Yes** | PI must be at an AR partner institution; LLC supplies industry match. $75K cap, 20% match. |
+| **UAPB 1890 Capacity Building Grants** (subaward role) | **Yes** | UAPB primes; LLC subawarded for work that "advances capacity building at the 1890 institution." |
+| **AEDC Targeted Business R&D Credit (33%, $50K/yr × 5)** | Partial | Requires QREs **performed in AR**. Possible only if some work is genuinely done at AR field sites / AR contractor offices. |
+| **Advantage Arkansas (4% payroll, Tier 4)** | **No** | Requires AR business location + AR-resident employees. Off the table without relocating. |
+| **Targeted Business Payroll Credit (10% × 5)** | **No** | Same — requires AR-located business. |
+| **ADFA SSBCI direct programs** | **No (most likely)** | Generally requires AR operating company. Verify with ADFA case-by-case. |
+| **Equity Investment Tax Credit (33⅓%)** | Partial | Investors must be AR taxpayers; LLC needs at minimum foreign-LLC registration in AR. |
+
+**Bottom line:** A single research subcontract with UAPB or UADA Rohwer is the highest-ROI AR move — it unlocks a 33% credit on those QREs without any address change. Foreign-LLC registration in AR ($270 + $155/yr) is only worth it if EITC or other domicile-flagged programs are on the immediate target list — otherwise it just adds compliance overhead.
+
+---
+
+## Arkansas Relocation Docs (LEGACY — PRESERVED FOR REFERENCE)
+
+The following files were written when AR relocation was the leading path (2026-04-22). They are preserved as a complete reference in case the relocation question reopens, but **they are not the current plan**.
+
+- [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) — full AR formation, compliance, university bench, NIFA pipeline
+- [Property Search](arkansas/12_PROPERTY_SEARCH.md) — Chicot & Desha county housing playbook (paused)
+- [State Grants Timing](arkansas/13_STATE_GRANTS_TIMING.md) — AR program timing/clawbacks (paused)
+
+The Arkansas-specific content below this line was retained for due-diligence reference but is no longer driving recommendations.
 
 ### Why Arkansas
 
@@ -147,17 +212,17 @@ Organized into topical folders:
 | [Partner Overview](PARTNER_OVERVIEW.md) | Executive summary for partner meetings |
 | [Master Checklist](00_MASTER_CHECKLIST.md) | Step-by-step formation and grant readiness checklist |
 
-### `arkansas/` — Primary formation path
+### `louisiana/` — Primary formation path
 | # | Document | Description |
 |---|----------|-------------|
-| **11** | **[Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md)** | **AR formation, compliance, grants, universities, NSF EPSCoR/DART, NIFA pipeline, STTR concepts, residency playbook** |
-| **12** | **[Property Search](arkansas/12_PROPERTY_SEARCH.md)** | **Chicot & Desha County property market, listings, realtors, USDA 502 financing, move-in playbook** |
-| **13** | **[State Grants Timing](arkansas/13_STATE_GRANTS_TIMING.md)** | **Operational manual — app-to-cash timelines, earmarks, clawbacks, pre-commitment traps for every AR/federal program** |
+| **04** | **[Louisiana Compliance](louisiana/04_LOUISIANA_COMPLIANCE.md)** | **LA state taxes, annual report, R&D tax credit, parish license** |
+| **10** | **[Louisiana Grants Strategy](louisiana/10_LOUISIANA_GRANTS_STRATEGY.md)** | **LA state grants — LTTO, IRG, R&D Tax Credit, SSBCI, stacking** |
+| **13** | **[AR Cross-Border Access](louisiana/13_AR_CROSS_BORDER.md)** | **Which AR programs an LA-domiciled LLC can access; UAPB/UADA contract path** |
 
 ### `formation/` — LLC formation documents
 | # | Document | Description |
 |---|----------|-------------|
-| 01 | [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md) | LA Secretary of State filing guide (Path C fallback — AR LL-01 covered in doc 11 Part I) |
+| 01 | [Articles of Organization](formation/01_ARTICLES_OF_ORGANIZATION.md) | LA Secretary of State filing guide |
 | 02 | [Operating Agreement](formation/02_OPERATING_AGREEMENT.md) | Multi-member, manager-managed LLC agreement |
 | 03 | [EIN Application](formation/03_EIN_APPLICATION.md) | IRS Employer Identification Number guide |
 
@@ -182,8 +247,9 @@ Organized into topical folders:
 |---|----------|-------------|
 | 09 | [AG Research Scope](research/09_AG_RESEARCH_SCOPE.md) | AI agriculture focus areas, tech stack, university targets |
 
-### `louisiana/` — LA reference (Path C fallback)
+### `arkansas/` — Legacy relocation reference (PAUSED)
 | # | Document | Description |
 |---|----------|-------------|
-| 04 | [Louisiana Compliance](louisiana/04_LOUISIANA_COMPLIANCE.md) | LA state taxes, annual report, R&D tax credit |
-| 10 | [Louisiana Grants Strategy](louisiana/10_LOUISIANA_GRANTS_STRATEGY.md) | LA state grants, R&D tax credit, stacking strategy |
+| 11 | [Arkansas Expansion](arkansas/11_ARKANSAS_EXPANSION.md) | Full AR formation, university bench, programs — written when AR relocation was lead path |
+| 12 | [Property Search](arkansas/12_PROPERTY_SEARCH.md) | Chicot/Desha housing market — paused |
+| 13 | [State Grants Timing](arkansas/13_STATE_GRANTS_TIMING.md) | AR program timing/clawbacks — paused |
